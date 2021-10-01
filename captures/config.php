@@ -1,15 +1,15 @@
 <?php
 
 return array(
-    'secure_key' => 'your_password',
+    'secure_key' => 'adasdasfdfsrg5t45645645645',
 
-    'output_url' => 'http://yourdomain.com/captures/',
+    'output_url' => 'https://darkvypr.cf/captures/',
 
-    'redirect_url' => 'http://yourdomain.com/captures/',
+    'redirect_url' => 'http://darkvypr.cf/captures/',
 
     'allowed_ips' => array(),
 
-    'page_title' => 'page_title',
+    'page_title' => 'DarkVypr',
 
-    'heading_text' => 'heading_text',
+    'heading_text' => 'Captures',
 );
