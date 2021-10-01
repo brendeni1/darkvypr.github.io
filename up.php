@@ -2,7 +2,7 @@
  
 $secret_key = "dp9aft6e70f7es89g8f8syy"; //Set this as your secret key, to prevent others uploading to your server.
 $sharexdir = ""; //This is your file dir, also the link.. Not very important.
-$domain_url = 'https://darkvypr.cf';//Add your website here, including https://
+$domain_url = 'https://darkvypr.cf/';//Add your website here, including https://
 $lengthofstring = 8; //Length of the file name
  
 function RandomString($length) {
