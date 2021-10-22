@@ -1,0 +1,9 @@
+author.sub_length >= (12) || author.badges contains ri"VIP|Moderator" || flags.system_message || flags.reward_message || flags.sub_message || flags.points_redeemed || flags.highlighted || flags.whisper || message.content match ri"(bright|dark)?(v|b)(o)?(y|i)p(e|u|o)?r" || message.content match ri"\bbypa(')?(s)?\b" || message.content match ri"\b(dv(')?(s)?)\b" || author.name match ri"juicerflorist|xVerseO|zhandy38|VexNade|korrectionz|Gentics|pykeuwu123|tiredu|polarconfetti_|ELPWS|VuldroX|seuss02|Billy3Twitch|laweaespacial|TheHesser|TurkeyOW|garrry_____12|oomer_|snowstormcs|shadopi|PINHEIROn|Elias_1812|KleyW|Zombsiee|lilbint|bombey01|TyeBuddha|okabar|AadE_|ThePositiveBot|moldnugget|H1kkenNoAce|oomer_|WAIFIIII|asaad_9|Bubbabunyip|ktobaias"
+
+!(author.name match ri"Zostradamus|GOTSNIPERS|smthy__|Bedizen|julianio|widepeepoJev")
+
+!(message.content match ri"Pepepains|WICKED|D:|BatChest|Chatting|(#)?let\s?em\s?know|(#)?julianio|roulette|points|smp|HYPERBRUH|cooBruh|holUp|BasedGod|iphone|🍎|🍏|samsung|Android|green\s?bubble|imessage|weed|🤖|apple|ios|intel|amd|cpu|peepoglad")
+
+!(message.content match ri"Pepepains|D:|BatChest|BOOBA|HotPokket")
+
+!(message.content match ri"iphone|🍎|🍏|samsung|Android|green\s?bubble|imessage|weed|🤖|apple|ios|intel|amd|cpu")
