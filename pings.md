@@ -81,25 +81,24 @@ UnShadowBanDarkVyprTwitch
 
 <i>No one's forcing you to read this bro</i>
 
+`(bright|dark)?(v|b)(y)p(e|u|o)?r`
 
-> (bright|dark)?(v|b)(y)p(e|u|o)?r
+`\b(v|b)ypa(')?(s)?\b`
 
-> \b(v|b)ypa(')?(s)?\b
+`\b(dv(')?(s)?)\b`
 
-> \b(dv(')?(s)?)\b
+`UnShadowBanDarkVyprTwitch`
 
-> UnShadowBanDarkVyprTwitch
+`275711366`
 
-> 275711366
+`\b(bright|dark)vip(e|u|o)r\b`
 
-> \b(bright|dark)vip(e|u|o)r\b
+`\b(b|v)o?ip(o*|e|u)r\b`
 
-> \b(b|v)o?ip(o*|e|u)r\b
+`biper`
 
-> biper
+`vpyr`
 
-> vpyr
+`\b(b|v)pe?r\b`
 
-> \b(b|v)pe?r\b
-
-> darkv
+`darkv`
