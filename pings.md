@@ -79,7 +79,7 @@ UnShadowBanDarkVyprTwitch
 
 > [REGEX101 LINK](https://regex101.com/r/WtN0Sp/12)
 
-<i>No one's forcing you to read this bro</i>
+> <i>No one's forcing you to read this bro</i>
 
 `(bright|dark)?(v|b)(y)p(e|u|o)?r`
 
