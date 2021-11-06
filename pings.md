@@ -2,19 +2,19 @@
 
 <b><i>(dark|bright) = dark or bright works</i></b>
 
-`(dark|bright)` viper
+\(dark|bright) viper
 
-`(dark|bright)` vypr
+\(dark|bright) vypr
 
-`(dark|bright)` vyper
+\(dark|bright) vyper
 
-`(dark|bright)` vypor
+\(dark|bright) vypor
 
-`(dark|bright)` vipor
+\(dark|bright) vipor
 
-`(dark|bright)` vypur
+\(dark|bright) vypur
 
-`(dark|bright)` vipur
+\(dark|bright) vipur
 
 vyper
 
