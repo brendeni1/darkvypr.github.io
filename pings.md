@@ -1,32 +1,20 @@
 # PINGS
 
-brightviper
+<b><i>(dark|bright) = dark or bright works</i></b>
 
-brightvypr
+(dark|bright)viper
 
-brightvyper
+(dark|bright)vypr
 
-brightvypor
+(dark|bright)vyper
 
-brightvipor
+(dark|bright)vypor
 
-brightvypur
+(dark|bright)vipor
 
-brightvipur
+(dark|bright)vypur
 
-darkvypr
-
-darkvyper
-
-darkvypur
-
-darkvypor
-
-darkvipor
-
-darkvipur
-
-darkviper
+(dark|bright)vipur
 
 vyper
 
@@ -41,7 +29,6 @@ bypr
 vipor
 
 vipur
-
 
 byper
 
@@ -69,9 +56,21 @@ booper
 
 darkv
 
-UnShadowBanDarkVyprTwitch
-
 275711366
+
+voiper
+
+----------------------------
+
+<i><b>These are Bint and Temperz's fault <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_70c9971ecaed4e45980bf32472775c4a/default/dark/3.0" width="28" height="28" /></i></b></i>
+
+dypr
+
+dyper
+
+(dark|bright)dypr
+
+(dark|bright)dyper
 
 ----------------------------
 
@@ -102,3 +101,13 @@ UnShadowBanDarkVyprTwitch
 `\b(b|v)pe?r\b`
 
 `darkv`
+
+`dark\s?diaper`
+
+`voiper`
+
+`\b(dark|bright)?\s?dype?r\b`
+
+`booper`
+
+`(dark|bright)\s?diaper`
