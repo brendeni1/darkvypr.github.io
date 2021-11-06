@@ -68,9 +68,9 @@ dypr
 
 dyper
 
-(dark|bright)dypr
+(dark\|bright)dypr
 
-(dark|bright)dyper
+(dark\|bright)dyper
 
 ----------------------------
 
