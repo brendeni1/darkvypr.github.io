@@ -58,8 +58,6 @@ darkv
 
 275711366
 
-voiper
-
 ----------------------------
 
 <i><b>These are Bint and Temperz's fault <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_70c9971ecaed4e45980bf32472775c4a/default/dark/3.0" width="28" height="28" /></i></b></i>
