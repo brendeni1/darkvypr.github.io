@@ -34642,19 +34642,6 @@ a.u-link.u-text-hover-grey-90:hover {
   height: 52px;
   margin: -80px auto 0 508px;
 }
-
-.u-header .u-btn-1 {
-  border-style: solid;
-  font-weight: 700;
-  text-transform: uppercase;
-  font-size: 1rem;
-  letter-spacing: 1px;
-  background-image: none;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  transition-duration: 0.5s;
-  margin: -46px 145px 28px auto;
-}
 @media (max-width: 1199px) {
   .u-header .u-sheet-1 {
     min-height: 144px;
@@ -34679,12 +34666,6 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-top: -74px;
     margin-left: 408px;
   }
-
-  .u-header .u-btn-1 {
-    margin-top: -52px;
-    margin-right: 130px;
-    margin-bottom: 40px;
-  }
 }
 @media (max-width: 991px) {
   .u-header .u-sheet-1 {
@@ -34705,11 +34686,6 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-image-2 {
     margin-top: -70px;
     margin-left: 308px;
-  }
-
-  .u-header .u-btn-1 {
-    margin-right: 30px;
-    margin-bottom: 28px;
   }
 }
 @media (max-width: 767px) {
@@ -34733,28 +34709,23 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-right: 186px;
     margin-left: 408px;
   }
-
-  .u-header .u-btn-1 {
-    margin-top: 210px;
-    margin-right: 0;
-    margin-bottom: 60px;
-  }
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 235px;
+    min-height: 162px;
   }
 
   .u-header .u-text-1 {
     width: 40px;
-    margin-top: 119px;
+    margin-top: 120px;
   }
 
   .u-header .u-image-1 {
     width: 84px;
     height: 83px;
-    margin-top: -125px;
+    margin-top: -126px;
     margin-left: auto;
+    margin-bottom: 52px;
   }
 
   .u-header .u-image-2 {
@@ -34762,43 +34733,28 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-right: 186px;
     margin-left: 288px;
   }
-
-  .u-header .u-btn-1 {
-    margin-top: 59px;
-    margin-right: auto;
-    margin-bottom: 20px;
-  }
 }
-.u-header .u-btn-1 {
-    transition-property: fill, color, background-image, background-color, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform !important
-}
-.u-header .u-btn-1:hover {
-    transform: scale(1.07) !important
-} 
-
  .u-footer {
   background-image: none;
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 58px;
-}
-@media (max-width: 1199px) {
-  .u-footer .u-sheet-1 {
-    min-height: 59px;
-  }
-}
-@media (max-width: 991px) {
-  .u-footer .u-sheet-1 {
-    min-height: 58px;
-  }
+  min-height: 62px;
 }
 
-@media (max-width: 575px) {
-  .u-footer .u-sheet-1 {
-    min-height: 56px;
-  }
+.u-footer .u-text-1 {
+  font-size: 0.625rem;
+  margin: 20px auto;
 }
+
+.u-footer .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+
+
+
 
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
