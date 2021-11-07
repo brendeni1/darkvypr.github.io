@@ -6,7 +6,7 @@ Yo whats up I made a [website](https://darkvypr.com) cause why not <img src="htt
      width="100" 
      height="30" />
 
------------------
+---
 
 100th times the charm! <img src="https://i.darkvypr.com/100commits.png" 
      width="1100" 
