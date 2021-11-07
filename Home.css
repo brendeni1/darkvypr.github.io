@@ -983,7 +983,7 @@
 }
 
 .u-section-1 .u-layout-wrap-2:hover {
-  transform: scale(1.05) !important;
+  transform: scale(1.03) !important;
 }
 
 .u-section-1 .u-layout-wrap-1 {
@@ -991,7 +991,7 @@
 }
 
 .u-section-1 .u-layout-wrap-1:hover {
-  transform: scale(1.05) !important;
+  transform: scale(1.03) !important;
 }.u-section-2 .u-sheet-1 {
   min-height: 945px;
 }
@@ -1292,7 +1292,7 @@
 }
 
 .u-section-2 .u-layout-wrap-2:hover {
-  transform: scale(1.05) !important;
+  transform: scale(1.03) !important;
 }
 
 .u-section-2 .u-layout-wrap-1 {
@@ -1300,7 +1300,7 @@
 }
 
 .u-section-2 .u-layout-wrap-1:hover {
-  transform: scale(1.05) !important;
+  transform: scale(1.03) !important;
 }.u-section-3 .u-sheet-1 {
   min-height: 877px;
 }
