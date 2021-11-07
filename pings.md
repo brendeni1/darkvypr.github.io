@@ -58,9 +58,9 @@ darkv
 
 275711366
 
-----------------------------
+---
 
-<i><b>HotTemperz <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_70c9971ecaed4e45980bf32472775c4a/default/dark/3.0" width="28" height="28" /></i></b>
+<b>HotTemperz</b> <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_70c9971ecaed4e45980bf32472775c4a/default/dark/3.0" width="28" height="28" />
 
 dypr
 
@@ -70,13 +70,13 @@ dyper
 
 (dark\|bright)dyper
 
-----------------------------
+---
 
 # REGEX STRINGS
 
-> [REGEX101 LINK](https://regex101.com/r/WtN0Sp/12)
+[REGEX101 LINK](https://regex101.com/r/WtN0Sp/12)
 
-> <i>No one's forcing you to read this bro</i>
+---
 
 `(bright|dark)?(v|b)(y)p(e|u|o)?r`
 
@@ -109,3 +109,5 @@ dyper
 `booper`
 
 `(dark|bright)\s?diaper`
+
+---
