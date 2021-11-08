@@ -70,6 +70,8 @@ dyper
 
 (dark\|bright)dyper
 
+(dark\|bright)diaper
+
 ---
 
 # REGEX STRINGS
