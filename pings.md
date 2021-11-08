@@ -1,7 +1,3 @@
-# PINGS
-
-<b><i>(dark|bright) = dark or bright works</i></b>
-
 (dark\|bright) viper
 
 (dark\|bright) vypr
