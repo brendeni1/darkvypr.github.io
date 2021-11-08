@@ -76,7 +76,7 @@ dyper
 
 # REGEX STRINGS
 
-[REGEX101 LINK](https://regex101.com/r/WtN0Sp/12)
+[REGEX101 LINK](https://regex101.com/r/WtN0Sp/13)
 
 ---
 
