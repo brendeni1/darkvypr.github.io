@@ -1,16 +1,26 @@
-(dark\|bright) viper
+darkvypr
 
-(dark\|bright) vypr
+darkvyper
 
-(dark\|bright) vyper
+darkvypor
 
-(dark\|bright) vypor
+darkvipor
 
-(dark\|bright) vipor
+darkvypur
 
-(dark\|bright) vypur
+darkvipur
 
-(dark\|bright) vipur
+brightvypr
+
+brightvyper
+
+brightvypor
+
+brightvipor
+
+brightvypur
+
+brightvipur
 
 vyper
 
