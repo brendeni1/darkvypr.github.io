@@ -74,11 +74,17 @@ dypr
 
 dyper
 
-(dark\|bright) dypr
+darkdypr
 
-(dark\|bright) dyper
+darkdyper
 
-(dark\|bright) diaper
+darkdiaper
+
+brightdypr
+
+brightdyper
+
+brightdiaper
 
 ---
 
