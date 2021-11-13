@@ -1,4 +1,4 @@
-# Twitch OAUTH
+# Twitch OAuth
 
 <details>
 
