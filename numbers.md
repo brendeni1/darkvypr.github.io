@@ -9,8 +9,6 @@
 </details>
   
 ---
-  
-# Follow and Unfollow Hashes
 
 | Follow        | `800e7346bdf7e5278a3c1d3f21b2b56e2639928f86815677a7126b093b2fdd08`
 | ------------- |:-------------
