@@ -1,5 +1,3 @@
-# Twitch OAuth
-
 <details>
 
 <summary>OAuth Token</summary>
