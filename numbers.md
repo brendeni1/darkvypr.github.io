@@ -14,6 +14,6 @@
 
 | Follow        | `800e7346bdf7e5278a3c1d3f21b2b56e2639928f86815677a7126b093b2fdd08`
 | ------------- |:-------------
-| Unfollow      | `f7dae976ebf41c755ae2d758546bfd176b4eeb856656098bb40e0a672ca0d880`
+| <b>Unfollow</b>      | <b>`f7dae976ebf41c755ae2d758546bfd176b4eeb856656098bb40e0a672ca0d880`</b>
 
 ---
