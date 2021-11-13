@@ -1,4 +1,4 @@
-## Twitch OAUTH
+# Twitch OAUTH
 
 <details>
 
@@ -10,7 +10,7 @@
   
 ---
   
-## Follow and Unfollow Hashes
+# Follow and Unfollow Hashes
 
 <details>
   
