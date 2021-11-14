@@ -13,7 +13,7 @@ Here is a list of all of the commands for my scuffed bot.
 | !coomer                           | Edited... <img src="https://cdn.frankerfacez.com/emoticon/208616/1" width="32" height="28">
 | !dance                            | <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e88cc46144b84732929c75512e8a2d3d/default/dark/1.0"> <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e88cc46144b84732929c75512e8a2d3d/default/dark/1.0"> GET DOWN ON IT <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e88cc46144b84732929c75512e8a2d3d/default/dark/1.0"> <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e88cc46144b84732929c75512e8a2d3d/default/dark/1.0">
 | !derick                           | Classic Derick.
-| !discord                          | Join the discord server for the twitch homies. <img src="https://static-cdn.jtvnw.net/emoticons/v2/120232/default/dark/1.0">
+| !discord // !disc                 | Join the discord server for the twitch homies. <img src="https://static-cdn.jtvnw.net/emoticons/v2/120232/default/dark/1.0">
 | !dogjam                           | <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x">
 | !emotes `USER`                    | List all of the emotes, badges and assets for the specified channel.
 | !farmer                           | Get a link to the Twitch Channel Points Farmer V2. Also can be used to farm gift subs. (This may or may not work anymore, Twitch may have broken this one <img src="https://cdn.frankerfacez.com/emoticon/425196/4" width="28" height="22">)
@@ -22,6 +22,7 @@ Here is a list of all of the commands for my scuffed bot.
 | !followbutton                     | A tutorial on how to set up the follow button for [Chatterino Homies](https://github.com/itzAlex/chatterino7/releases).
 | !followers `USER`                 | Get a list of who is following a specific user on Twitch.
 | !following `USER`                 | Get a list of who a specific user is following on Twitch.
+| !github // !git                   | Link to my GitHub profile.
 | !gnkiss `USER` `MESSAGE`          | Kiss someone goodnight. <img src="https://cdn.7tv.app/emote/60a1babb3c3362f9a4b8b33a/1x">
 | !hare                             | An old command for the location of hare in Far Cry 5. <img src="https://cdn.7tv.app/emote/610725797c9d47b53ef7d244/1x">
 | !harrison                         | Screenshot of user [@hhharrisonnn](https://www.twitch.tv/hhharrisonnn).
@@ -30,7 +31,6 @@ Here is a list of all of the commands for my scuffed bot.
 | !imagerepo                        | Another useless command to anyone but [@DarkVypr](https://www.twitch.tv/darkvypr) (Image Storage).
 | !kaf                              | Video of user [@KafieneOW](https://www.twitch.tv/kafieneow).
 | !kitten                           | Bints Fault. <img src="https://cdn.7tv.app/emote/6180b02fb0bfad942897389a/1x">
-| !links                            | 
 | !list                             | A link to the cutelist made by [@snowstormcs](https://www.twitch.tv/snowstormcs).
 | !logs `USER` `CHANNEL`            | Get the logs of a user on any channel that is supported by [Leppunen's Logs](https://logs.ivr.fi/).
 | !marbles                          | Easiest marbles win of my life. <img src="https://static-cdn.jtvnw.net/emoticons/v2/308078032/default/dark/1.0">
@@ -50,14 +50,13 @@ Here is a list of all of the commands for my scuffed bot.
 | !plopcolour                       | [@XenoPlopQB](https://www.twitch.tv/XenoPlopQB)'s old username colour, stored for record.
 | !regex101pings                    | A link to all of the regex strings that make up [my pings](https://darkvypr.com/pings).
 | !say                              | Repeat what the user sent. Example Input: `DarkVypr: !say hello my name is darkvypr` Example Response: `VyprBot: 👥 hello my name is darkvypr`
-| !site                             | Get a link to [my website](https://darkvypr.com) with all of my links. <img src="https://cdn.betterttv.net/emote/60de01428ed8b373e421c395/1x">
+| !site // !website // !links       | Get a link to [my website](https://darkvypr.com) with all of my links. <img src="https://cdn.betterttv.net/emote/60de01428ed8b373e421c395/1x">
 | !siterepo                         | Another useless command to anyone but [@DarkVypr](https://www.twitch.tv/darkvypr) (Site Source Code).
 | !specs                            | A list of my PC's specs. <img src="https://cdn.7tv.app/emote/60daca8c9a9fbb6acdbb6979/1x">
 | !vanish                           | Disappear and never come back. <img src="https://cdn.7tv.app/emote/6040aa41cf6746000db1034e/1x">
 | !vei                              | Spam <img src="https://cdn.7tv.app/emote/60ae95eaf6a2c3b332134fa6/1x"> 5 times.
 | !vyprcolour                       | [@DarkVypr](https://www.twitch.tv/DarkVypr)'s old username colour, stored for record.
-| !website                          | 
 | !xqcow                            | Average day in juicer chat. <img src="https://cdn.7tv.app/emote/615cc4aa6fe89bccc37c94a3/1x"> <img src="https://static-cdn.jtvnw.net/badges/v1/b817aba4-fad8-49e2-b88a-7cc744dfa6ec/1">
 | !yag                              | This [@Yagnesh](https://www.twitch.tv/Yagnesh) guy is so cringe wtf.
 | !zamn                             | <img src="https://cdn.7tv.app/emote/616cfc0b5ff09767de29663d/1x"> [she's 12???](https://knowyourmeme.com/memes/zamn-shes-12) --> This is just a backup for the "ZAMN" keyword in my Fossabot settings.
-| !zhandy                           |
+| !zhandy                           | Some furry that likes watching cats do weird stuff ig. <img src="https://cdn.frankerfacez.com/emoticon/107715/1">
