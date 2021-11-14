@@ -19,21 +19,21 @@ Here is a list of all of the commands for my scuffed bot.
 | dogjam                  | !dogjam                           | <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x">
 | emotes                  | !emotes `USER`                    | List all of the emotes, badges and assets for the specified channel.
 | farmer                  | !farmer                           | Get a link to the Twitch Channel Points Farmer V2. Also can be used to farm gift subs. (This may or may not work anymore, Twitch may have broken this one <img src="https://cdn.frankerfacez.com/emoticon/425196/4" width="28" height="22">)
-| filerepo                | !filerepo                         | Useless to anyone but [@DarkVypr](https://www.twitch.tv/darkvypr)
-| filters                 | !filters                          |
-| followbutton            | !followbutton                     |
-| followers               | !followers `USER`                 |
-| following               | !following `USER`                 |
-| gnkiss                  | !gnkiss `USER` `MESSAGE`          |
-| hare                    | !hare                             |
-| harrison                | !harrison                         |
-| harrison2               | !harrison2                        |
-| harrison3               | !harrison3                        |
-| imagerepo               | !imagerepo                        |
-| kaf                     | !kaf                              |
-| kitten                  | !kitten                           |
-| links                   | !links                            |
-| list                    | !list                             |
+| filerepo                | !filerepo                         | Useless to anyone but [@DarkVypr](https://www.twitch.tv/darkvypr) (File Storage).
+| filters                 | !filters                          | Also useless to anyone but [@DarkVypr](https://www.twitch.tv/darkvypr) (Chatterino Settings Backup).
+| followbutton            | !followbutton                     | A tutorial on how to set up the follow button for [Chatterino Homies](https://github.com/itzAlex/chatterino7/releases).
+| followers               | !followers `USER`                 | Get a list of who is following a specific user on Twitch.
+| following               | !following `USER`                 | Get a list of who a specific user is following on Twitch.
+| gnkiss                  | !gnkiss `USER` `MESSAGE`          | Kiss someone goodnight. <img src="https://cdn.7tv.app/emote/60a1babb3c3362f9a4b8b33a/1x">
+| hare                    | !hare                             | An old command for the location of hare in Far Cry 5. <img src="https://cdn.7tv.app/emote/610725797c9d47b53ef7d244/1x">
+| harrison                | !harrison                         | Screenshot of user [@hhharrisonnn](https://www.twitch.tv/hhharrisonnn).
+| harrison2               | !harrison2                        | Video of user [@hhharrisonnn](https://www.twitch.tv/hhharrisonnn).
+| harrison3               | !harrison3                        | Screenshot of user [@hhharrisonnn](https://www.twitch.tv/hhharrisonnn).
+| imagerepo               | !imagerepo                        | Another useless command to anyone but [@DarkVypr](https://www.twitch.tv/darkvypr) (Image Storage).
+| kaf                     | !kaf                              | Video of user [@KafieneOW](https://www.twitch.tv/kafieneow).
+| kitten                  | !kitten                           | Bints Fault <img src="https://cdn.7tv.app/emote/6180b02fb0bfad942897389a/1x">
+| links                   | !links                            | 
+| list                    | !list                             | A link to the cutelist made by
 | logs                    | !logs                             |
 | marbles                 | !marbles                          |
 | minglee                 | !minglee                          |
