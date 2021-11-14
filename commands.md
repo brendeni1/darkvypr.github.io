@@ -41,23 +41,23 @@ Here is a list of all of the commands for my scuffed bot.
 | !numbers                          | Another useless command to anyone but [@DarkVypr](https://www.twitch.tv/darkvypr) (Hashes and Useful #'s).
 | !ocr `DIRECT_LINK_TO_IMAGE`       | Get the text out of an image. You must use a direct link to an image, it must be in English and it also must be readable with minimal aliasing or chromatic aberration. For Example, `!ocr https://i.imgur.com/pMHC9mD.png`, returns: `VyprBot: Results for OCR, {your_name}: Microsoft`.
 | !picsbeforedisaster               | Screenshot of user [@hhharrisonnn](https://www.twitch.tv/hhharrisonnn). <img src="https://cdn.7tv.app/emote/60b146c5ad80a582b49c2d2f/1x">
-| !pings
-| !plop
-| !plop2
-| !plop3
-| !plop4
-| !plop5
-| !plopcolour
-| !regex101pings
-| !say
-| !site
-| !siterepo
-| !specs
-| !vanish
-| !vei
-| !vyprcolour
-| !website
-| !xqcow
-| !yag
-| !zamn
-| !zhandy
+| !pings                            | A list of [@DarkVypr](https://www.twitch.tv/darkvypr)'s pings. <img src="https://cdn.7tv.app/emote/60afdf8dd2e19045eed5b8b3/1x">
+| !plop                             | Screenshot of user [@XenoPlopQB](https://www.twitch.tv/XenoPlopQB).
+| !plop2                            | Screenshot of user [@XenoPlopQB](https://www.twitch.tv/XenoPlopQB).
+| !plop3                            | Screenshot of user [@XenoPlopQB](https://www.twitch.tv/XenoPlopQB). 
+| !plop4                            | Screenshot of user [@XenoPlopQB](https://www.twitch.tv/XenoPlopQB).
+| !plop5                            | Screenshot of user [@XenoPlopQB](https://www.twitch.tv/XenoPlopQB).
+| !plopcolour                       | [@XenoPlopQB](https://www.twitch.tv/XenoPlopQB)'s old username colour, stored for record.
+| !regex101pings                    | A link to all of the regex strings that make up [my pings](https://darkvypr.com/pings).
+| !say                              | Repeat what the user sent. Example Input: `DarkVypr: !say hello my name is darkvypr` Example Response: `VyprBot: 👥 hello my name is darkvypr`
+| !site                             | Get a link to [my website](https://darkvypr.com) with all of my links. <img src="https://cdn.betterttv.net/emote/60de01428ed8b373e421c395/1x">
+| !siterepo                         | Another useless command to anyone but [@DarkVypr](https://www.twitch.tv/darkvypr) (Site Source Code).
+| !specs                            | A list of my PC's specs. <img src="https://cdn.7tv.app/emote/60daca8c9a9fbb6acdbb6979/1x">
+| !vanish                           | Disappear and never come back. <img src="https://cdn.7tv.app/emote/6040aa41cf6746000db1034e/1x">
+| !vei                              | Spam <img src="https://cdn.7tv.app/emote/60ae95eaf6a2c3b332134fa6/1x"> 5 times.
+| !vyprcolour                       | [@DarkVypr](https://www.twitch.tv/DarkVypr)'s old username colour, stored for record.
+| !website                          | 
+| !xqcow                            | Average day in juicer chat. <img src="https://cdn.7tv.app/emote/615cc4aa6fe89bccc37c94a3/1x"> <img src="https://static-cdn.jtvnw.net/badges/v1/b817aba4-fad8-49e2-b88a-7cc744dfa6ec/1">
+| !yag                              | This [@Yagnesh](https://www.twitch.tv/Yagnesh) guy is so cringe wtf.
+| !zamn                             | <img src="https://cdn.7tv.app/emote/616cfc0b5ff09767de29663d/1x"> [she's 12???](https://knowyourmeme.com/memes/zamn-shes-12) --> This is just a backup for the "ZAMN" keyword in my Fossabot settings.
+| !zhandy                           |
