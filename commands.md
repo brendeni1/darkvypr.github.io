@@ -31,12 +31,12 @@ Here is a list of all of the commands for my scuffed bot.
 | harrison3               | !harrison3                        | Screenshot of user [@hhharrisonnn](https://www.twitch.tv/hhharrisonnn).
 | imagerepo               | !imagerepo                        | Another useless command to anyone but [@DarkVypr](https://www.twitch.tv/darkvypr) (Image Storage).
 | kaf                     | !kaf                              | Video of user [@KafieneOW](https://www.twitch.tv/kafieneow).
-| kitten                  | !kitten                           | Bints Fault <img src="https://cdn.7tv.app/emote/6180b02fb0bfad942897389a/1x">
+| kitten                  | !kitten                           | Bints Fault. <img src="https://cdn.7tv.app/emote/6180b02fb0bfad942897389a/1x">
 | links                   | !links                            | 
-| list                    | !list                             | A link to the cutelist made by
-| logs                    | !logs                             |
-| marbles                 | !marbles                          |
-| minglee                 | !minglee                          |
+| list                    | !list                             | A link to the cutelist made by [@snowstormcs](https://www.twitch.tv/snowstormcs).
+| logs                    | !logs `USER` `CHANNEL`            | Get the logs of a user on any channel that is supported by [Leppunen's Logs](https://logs.ivr.fi/).
+| marbles                 | !marbles                          | Easiest marbles win of my life <img src="https://static-cdn.jtvnw.net/emoticons/v2/308078032/default/dark/1.0">
+| minglee                 | !minglee                          | <img src="https://static-cdn.jtvnw.net/emoticons/v2/68856/default/dark/1.0"> <img src="https://pajbot.com/static/emoji-v2/img/twitter/64/1f1e8-1f1f3.png" width="" height="28"> The sun in the sky is red. In our hearts is the sun Mao Zedong. He leads us to move forward.
 | modlookup               | !modlookup                        |
 | nam                     | !nam                              |
 | noah                    | !noah                             |
