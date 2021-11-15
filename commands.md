@@ -25,12 +25,15 @@ Here is a list of all of the commands for my scuffed bot.
 | !followbutton                     | A tutorial on how to set up the follow button for [Chatterino Homies](https://github.com/itzAlex/chatterino7/releases).
 | !followers `USER`                 | Get a list of who is following a specific user on Twitch.
 | !following `USER`                 | Get a list of who a specific user is following on Twitch.
+| !fuck `USER`                      | Fuck any user you wish <img src="https://cdn.7tv.app/emote/60538d319d9e96000d244f8c/1x">
 | !github // !git                   | Link to my GitHub profile.
 | !gnkiss `USER` `MESSAGE`          | Kiss someone goodnight. <img src="https://cdn.7tv.app/emote/60a1babb3c3362f9a4b8b33a/1x">
 | !hare                             | An old command for the location of hare in Far Cry 5. <img src="https://cdn.7tv.app/emote/610725797c9d47b53ef7d244/1x">
 | !harrison`1-3`                    | Screenshots/Videos of user [@hhharrisonnn](https://www.twitch.tv/hhharrisonnn).
+| !help                             | Get a short description of the bot and some potentially useful info. <img src="https://cdn.7tv.app/emote/60a43a99b0dc46d7b4458517/1x">
 | !imagerepo                        | Another useless command to anyone but [@DarkVypr](https://www.twitch.tv/darkvypr) (Image Storage).
 | !kaf                              | Video of user [@KafieneOW](https://www.twitch.tv/kafieneow).
+| !kiss `USER`                      | Kiss a user. <img src="https://cdn.7tv.app/emote/60fa7cfb4c5d42dbbc6d9eb1/1x">
 | !kitten                           | Bints Fault. <img src="https://cdn.7tv.app/emote/6180b02fb0bfad942897389a/1x">
 | !list                             | A link to the cutelist made by [@snowstormcs](https://www.twitch.tv/snowstormcs).
 | !logs `USER` `CHANNEL`            | Get the logs of a user on any channel that is supported by [Leppunen's Logs](https://logs.ivr.fi/).
