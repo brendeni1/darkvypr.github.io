@@ -25,6 +25,7 @@ Here is a list of all of the commands for my scuffed bot.
 | !followbutton                     | A tutorial on how to set up the follow button for [Chatterino Homies](https://github.com/itzAlex/chatterino7/releases).
 | !followers `USER`                 | Get a list of who is following a specific user on Twitch.
 | !following `USER`                 | Get a list of who a specific user is following on Twitch.
+| !firstlog `USER` `CHANNEL`        | Use [Leppunen's Logs](https://logs.ivr.fi/) to get the first message of any user in any channel as long as the channel is logged.
 | !fuck `USER`                      | Fuck any user you wish <img src="https://cdn.7tv.app/emote/60538d319d9e96000d244f8c/1x">
 | !github // !git                   | Link to my GitHub profile.
 | !gnkiss `USER` `MESSAGE`          | Kiss someone goodnight. <img src="https://cdn.7tv.app/emote/60a1babb3c3362f9a4b8b33a/1x">
