@@ -2,7 +2,8 @@ Here is a list of all of the commands for my scuffed bot.
 
 | Command + Variables               | Description   
 | --------------------------------- | ---------------------------------------
-| !7tvuser `NAME_HERE`              | Lookup the profile of a user on 7TV.
+| !7tvemote `EMOTE`                 | Find an emote on 7tv by the name.
+| !7tvuser `NAME`                   | Lookup the profile of a user on 7TV.
 | !adblock                          | Some adblockers that I had saved.
 | !alogs `USER` `CHANNEL`           | Get the logs of a user on any channel that is supported by [Apulxd Logs](https://logs.apulxd.ga/).
 | !anatole                          | Still no 7tv personal emotes. <img src="https://cdn.frankerfacez.com/emoticon/425196/4" width="28" height="22">
