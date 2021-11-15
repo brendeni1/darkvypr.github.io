@@ -25,9 +25,7 @@ Here is a list of all of the commands for my scuffed bot.
 | !github // !git                   | Link to my GitHub profile.
 | !gnkiss `USER` `MESSAGE`          | Kiss someone goodnight. <img src="https://cdn.7tv.app/emote/60a1babb3c3362f9a4b8b33a/1x">
 | !hare                             | An old command for the location of hare in Far Cry 5. <img src="https://cdn.7tv.app/emote/610725797c9d47b53ef7d244/1x">
-| !harrison                         | Screenshot of user [@hhharrisonnn](https://www.twitch.tv/hhharrisonnn).
-| !harrison2                        | Video of user [@hhharrisonnn](https://www.twitch.tv/hhharrisonnn).
-| !harrison3                        | Screenshot of user [@hhharrisonnn](https://www.twitch.tv/hhharrisonnn).
+| !harrison`1-3`                    | Screenshots/Videos of user [@hhharrisonnn](https://www.twitch.tv/hhharrisonnn).
 | !imagerepo                        | Another useless command to anyone but [@DarkVypr](https://www.twitch.tv/darkvypr) (Image Storage).
 | !kaf                              | Video of user [@KafieneOW](https://www.twitch.tv/kafieneow).
 | !kitten                           | Bints Fault. <img src="https://cdn.7tv.app/emote/6180b02fb0bfad942897389a/1x">
@@ -42,11 +40,7 @@ Here is a list of all of the commands for my scuffed bot.
 | !ocr `DIRECT_LINK_TO_IMAGE`       | Get the text out of an image. You must use a direct link to an image, it must be in English and it also must be readable with minimal aliasing or chromatic aberration. For Example, `!ocr https://i.imgur.com/pMHC9mD.png`, returns: `VyprBot: Results for OCR, {your_name}: Microsoft`.
 | !picsbeforedisaster               | Screenshot of user [@hhharrisonnn](https://www.twitch.tv/hhharrisonnn). <img src="https://cdn.7tv.app/emote/60b146c5ad80a582b49c2d2f/1x">
 | !pings                            | A list of [@DarkVypr](https://www.twitch.tv/darkvypr)'s pings. <img src="https://cdn.7tv.app/emote/60afdf8dd2e19045eed5b8b3/1x">
-| !plop                             | Screenshot of user [@XenoPlopQB](https://www.twitch.tv/XenoPlopQB).
-| !plop2                            | Screenshot of user [@XenoPlopQB](https://www.twitch.tv/XenoPlopQB).
-| !plop3                            | Screenshot of user [@XenoPlopQB](https://www.twitch.tv/XenoPlopQB). 
-| !plop4                            | Screenshot of user [@XenoPlopQB](https://www.twitch.tv/XenoPlopQB).
-| !plop5                            | Screenshot of user [@XenoPlopQB](https://www.twitch.tv/XenoPlopQB).
+| !plop`1-6`                        | Screenshots of user [@XenoPlopQB](https://www.twitch.tv/XenoPlopQB).
 | !plopcolour                       | [@XenoPlopQB](https://www.twitch.tv/XenoPlopQB)'s old username colour, stored for record.
 | !regex101pings                    | A link to all of the regex strings that make up [my pings](https://darkvypr.com/pings).
 | !say                              | Repeat what the user sent. Example Input: `DarkVypr: !say hello my name is darkvypr` Example Response: `VyprBot: 👥 hello my name is darkvypr`
