@@ -9,7 +9,8 @@ Here is a list of all of the commands for my scuffed bot.
 | !anatole                          | Still no 7tv personal emotes. <img src="https://cdn.frankerfacez.com/emoticon/425196/4" width="28" height="22">
 | !botlist                          | A list of bots that I made during the Hoss and IP grabber raids.
 | !chatterino                       | Get links to [Chatterino Homies](https://github.com/itzAlex/chatterino7/releases) and [Dankerino](https://github.com/Mm2PL/dankerino/releases/tag/nightly-build).
-| !cat                              | Get a random image of a cat <img src="https://cdn.betterttv.net/emote/60d1079b8ed8b373e421781d/1x">
+| !cat                              | Get a random image of a cat. <img src="https://cdn.betterttv.net/emote/60d1079b8ed8b373e421781d/1x">
+| !catfact                          | Get a random fact about cats. <img src="https://cdn.7tv.app/emote/60b2b63c019c994a3a93f66c/1x">
 | !channels                         | List the channels that [@VyprBot](https://www.twitch.tv/VyprBot) is in and how to get the bot in your channel!
 | !christmas                        | States the number of months, days and minutes left until Christmas. <img src="https://cdn.betterttv.net/emote/5f91c1486f583802e38974aa/3x" width="28" height="28">
 | !commands                         | Brings you here <img src="https://cdn.7tv.app/emote/60af60df84a2b8e6554d9af7/4x" width="28" height="28">
