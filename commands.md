@@ -49,7 +49,7 @@ Here is a list of all of the commands for my scuffed bot.
 | !ocr `DIRECT_LINK_TO_IMAGE`       | Get the text out of an image. You must use a direct link to an image, it must be in English and it also must be readable with minimal aliasing or chromatic aberration. For Example, `!ocr https://i.imgur.com/pMHC9mD.png`, returns: `VyprBot: Results for OCR, {your_name}: Microsoft`.
 | !picsbeforedisaster               | Screenshot of user [@hhharrisonnn](https://www.twitch.tv/hhharrisonnn). <img src="https://cdn.7tv.app/emote/60b146c5ad80a582b49c2d2f/1x">
 | !pings                            | A list of [@DarkVypr](https://www.twitch.tv/darkvypr)'s pings. <img src="https://cdn.7tv.app/emote/60afdf8dd2e19045eed5b8b3/1x">
-| !plop`1-6`                        | Screenshots of user [@XenoPlopQB](https://www.twitch.tv/XenoPlopQB).
+| !plop`1-7`                        | Screenshots of user [@XenoPlopQB](https://www.twitch.tv/XenoPlopQB).
 | !plopcolour                       | [@XenoPlopQB](https://www.twitch.tv/XenoPlopQB)'s old username colour, stored for record.
 | !regex101pings                    | A link to all of the regex strings that make up [my pings](https://darkvypr.com/pings).
 | !say                              | Repeat what the user sent. Example Input: `DarkVypr: !say hello my name is darkvypr` Example Response: `VyprBot: 👥 hello my name is darkvypr`
