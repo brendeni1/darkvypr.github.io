@@ -1,5 +1,9 @@
 Here is a list of all of the commands for my scuffed bot.
 
+---
+
+***ITALIC, BOLDED TEXT*** = The command is only available for use in [my chat](https://www.twitch.tv/popout/darkvypr/chat?popout=).
+
 | Command + Variables               | Description   
 | --------------------------------- | ---------------------------------------
 | !7tvemote `EMOTE`                 | Find an emote on 7tv by the name.
@@ -29,7 +33,7 @@ Here is a list of all of the commands for my scuffed bot.
 | !following `USER`                 | Get a list of who a specific user is following on Twitch.
 | !firstlog `USER` `CHANNEL`        | Use [Leppunen's Logs](https://logs.ivr.fi/) to get the first message of any user in any channel as long as the channel is logged.
 | !fuck `USER`                      | Fuck any user you wish <img src="https://cdn.7tv.app/emote/60538d319d9e96000d244f8c/1x">
-| !github // !git                   | Link to my GitHub profile.
+| ***!github // !git***             | Link to my GitHub profile.
 | !gnkiss `USER` `MESSAGE`          | Kiss someone goodnight. <img src="https://cdn.7tv.app/emote/60a1babb3c3362f9a4b8b33a/1x">
 | !hare                             | An old command for the location of hare in Far Cry 5. <img src="https://cdn.7tv.app/emote/610725797c9d47b53ef7d244/1x">
 | !harrison`1-3`                    | Screenshots/Videos of user [@hhharrisonnn](https://www.twitch.tv/hhharrisonnn).
@@ -57,10 +61,12 @@ Here is a list of all of the commands for my scuffed bot.
 | !site // !website // !links       | Get a link to [my website](https://darkvypr.com) with all of my links. <img src="https://cdn.betterttv.net/emote/60de01428ed8b373e421c395/1x">
 | !siterepo                         | Another useless command to anyone but [@DarkVypr](https://www.twitch.tv/darkvypr) (Site Source Code).
 | !specs                            | A list of my PC's specs. <img src="https://cdn.7tv.app/emote/60daca8c9a9fbb6acdbb6979/1x">
+| ***!twitter***                    | Links to my Twitter profile.
 | !vanish                           | Disappear and never come back. <img src="https://cdn.7tv.app/emote/6040aa41cf6746000db1034e/1x">
 | !vei                              | Spam <img src="https://cdn.7tv.app/emote/60ae95eaf6a2c3b332134fa6/1x"> 5 times.
 | !vyprcolour                       | [@DarkVypr](https://www.twitch.tv/DarkVypr)'s old username colour, stored for record.
 | !xqcow                            | Average day in juicer chat. <img src="https://cdn.7tv.app/emote/615cc4aa6fe89bccc37c94a3/1x"> <img src="https://static-cdn.jtvnw.net/badges/v1/b817aba4-fad8-49e2-b88a-7cc744dfa6ec/1">
 | !yag                              | This [@Yagnesh](https://www.twitch.tv/Yagnesh) guy is so cringe wtf.
+| ***!youtube // !yt***             | Get a link to my YouTube channel (sub pls).
 | !zamn                             | <img src="https://cdn.7tv.app/emote/616cfc0b5ff09767de29663d/1x"> [she's 12???](https://knowyourmeme.com/memes/zamn-shes-12) --> This is just a backup for the "ZAMN" keyword in my Fossabot settings.
 | !zhandy                           | Some furry that likes watching cats do weird stuff ig. <img src="https://cdn.frankerfacez.com/emoticon/107715/1">
