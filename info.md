@@ -18,6 +18,4 @@ This bot was created to replace all of the Fossabot commands that I had in my ch
 
 Well it's mainly meant for my chat but I'm also accepting requests for the bot to be added to others.
 
-Idrk why you would want it because it has commands that link back to my personal accounts but hey there's some other functionality ig!
-
 Just send me a asking for the bot to be added. Make sure to read [the commands page](https://darkvypr.com/commands) before asking. I won't be removing any of them for you. Also the prefix is "!", at the moment, it cannot be changed.
