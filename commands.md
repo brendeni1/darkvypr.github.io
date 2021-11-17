@@ -38,6 +38,7 @@ Here is a list of all of the commands for my scuffed bot.
 | !hare                             | An old command for the location of hare in Far Cry 5. <img src="https://cdn.7tv.app/emote/610725797c9d47b53ef7d244/1x">
 | !harrison`1-3`                    | Screenshots/Videos of user [@hhharrisonnn](https://www.twitch.tv/hhharrisonnn).
 | !help                             | Get a short description of the bot and some potentially useful info. <img src="https://cdn.7tv.app/emote/60a43a99b0dc46d7b4458517/1x">
+| !hug `USER`                       | Give a user a hug! <img src="https://cdn.7tv.app/emote/60b3ee1eb0e6e2b3a5f9577a/1x">
 | !imagerepo                        | Another useless command to anyone but [@DarkVypr](https://www.twitch.tv/darkvypr) (Image Storage).
 | !kaf                              | Video of user [@KafieneOW](https://www.twitch.tv/kafieneow).
 | !kanye                            | Get a random quote from Mr. West. <img src="https://cdn.7tv.app/emote/6116f94cd281ac4021e0a4ac/1x">
