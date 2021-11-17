@@ -10,8 +10,14 @@ Owner Twitch : `DarkVypr`
 
 # Bot Info
 
-I made this bot on my free time, for my chat mostly as it has commands that link back to my socials. <img src="https://i.darkvypr.com/VeryPog.gif" width="40" height="40">
-
-I wanted to get somewhat familiar with JS and shit. (I still have no fucking clue how this works or anything so don't ask me pls lol)
+This bot was created to replace all of the Fossabot commands that I had in my chat, though it has some cool commands that Fossa can't do. It was also kinda cool to learn the basics of JS but don't ask me for help with that lol.
 
 ---
+
+# How can I get the bot in my chat?
+
+Well it's mainly meant for my chat but I'm also accepting requests for the bot to be added to others.
+
+Idrk why you would want it because it has commands that link back to my personal accounts but hey there's some other functionality ig!
+
+Just send me a asking for the bot to be added. Make sure to read [the commands page](https://darkvypr.com/commands) before asking. I won't be removing any of them for you. Also the prefix is "!", at the moment, it cannot be changed.
