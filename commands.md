@@ -6,12 +6,14 @@ Here is a list of all of the commands for my scuffed bot.
 
 | Command + Variables               | Description   
 | --------------------------------- | ---------------------------------------
-| !7tvemote `EMOTE`                 | Find an emote on 7tv by the name.
-| !7tvuser `NAME`                   | Lookup the profile of a user on 7TV.
+| !7tvemote `EMOTE`                 | Find an emote on 7tv by the name. <img src="https://cdn.7tv.app/emote/604e825e688b360014d83d7e/1x">
+| !7tvuser `NAME`                   | Lookup the profile of a user on 7TV. <img src="https://cdn.7tv.app/emote/604e825e688b360014d83d7e/1x">
 | !adblock                          | Some adblockers that I had saved.
 | !alogs `USER` `CHANNEL`           | Get the logs of a user on any channel that is supported by [Apulxd Logs](https://logs.apulxd.ga/).
 | !anatole                          | Still no 7tv personal emotes. <img src="https://cdn.frankerfacez.com/emoticon/425196/4" width="28" height="22">
 | !botlist                          | A list of bots that I made during the Hoss and IP grabber raids.
+| !breed `USER`                     | Breed with a specific user. <img src="https://cdn.7tv.app/emote/6160a2780f93a2d6173c0773/1x">
+| !bttvemote `EMOTE`                | Lookup a list of emotes on BTTV with a specific name. <img src="https://cdn.betterttv.net/emote/54fab7d2633595ca4c713abf/1x">
 | !chatterino                       | Get links to [Chatterino Homies](https://github.com/itzAlex/chatterino7/releases) and [Dankerino](https://github.com/Mm2PL/dankerino/releases/tag/nightly-build).
 | !cat                              | Get a random image of a cat. <img src="https://cdn.betterttv.net/emote/60d1079b8ed8b373e421781d/1x">
 | !catfact                          | Get a random fact about cats. <img src="https://cdn.7tv.app/emote/60b2b63c019c994a3a93f66c/1x">
@@ -26,6 +28,7 @@ Here is a list of all of the commands for my scuffed bot.
 | !dogjam                           | <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x">
 | !emotes `USER`                    | List all of the emotes, badges and assets for the specified channel.
 | !farmer                           | Get a link to the Twitch Channel Points Farmer V2. Also can be used to farm gift subs. (This may or may not work anymore, Twitch may have broken this one <img src="https://cdn.frankerfacez.com/emoticon/425196/4" width="28" height="22">)
+| !ffzemote `EMOTE`                 | Get a list of emotes on FFZ with a specific keyword. <img src="https://static-cdn.jtvnw.net/emoticons/v2/65/default/dark/1.0">
 | !filerepo                         | Useless to anyone but [@DarkVypr](https://www.twitch.tv/darkvypr) (File Storage).
 | !filters                          | Also useless to anyone but [@DarkVypr](https://www.twitch.tv/darkvypr) (Chatterino Settings Backup).
 | !followbutton                     | A tutorial on how to set up the follow button for [Chatterino Homies](https://github.com/itzAlex/chatterino7/releases).
