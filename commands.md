@@ -8,6 +8,7 @@ Here is a list of all of the commands for my scuffed bot.
 | --------------------------------- | ---------------------------------------
 | !7tvemote `EMOTE`                 | Find an emote on 7tv by the name. <img src="https://cdn.7tv.app/emote/604e825e688b360014d83d7e/1x">
 | !7tvuser `NAME`                   | Lookup the profile of a user on 7TV. <img src="https://cdn.7tv.app/emote/604e825e688b360014d83d7e/1x">
+| !8ball `QUESTION`                 | Ask the 8ball a question. 
 | !adblock                          | Some adblockers that I had saved.
 | !alogs `USER` `CHANNEL`           | Get the logs of a user on any channel that is supported by [Apulxd Logs](https://logs.apulxd.ga/).
 | !anatole                          | Still no 7tv personal emotes. <img src="https://cdn.frankerfacez.com/emoticon/425196/4" width="28" height="22">
@@ -20,6 +21,7 @@ Here is a list of all of the commands for my scuffed bot.
 | !channels                         | List the channels that [@VyprBot](https://www.twitch.tv/VyprBot) is in and how to get the bot in your channel!
 | !christmas                        | States the number of months, days and minutes left until Christmas. <img src="https://cdn.betterttv.net/emote/5f91c1486f583802e38974aa/3x" width="28" height="28">
 | !commands                         | Brings you here. <img src="https://cdn.7tv.app/emote/60af60df84a2b8e6554d9af7/4x" width="28" height="28">
+| !coinflip                         | Flip a coin. Returns either: `Heads! (Yes)` or `Tails! (No)`.
 | !coomer                           | Edited... <img src="https://cdn.frankerfacez.com/emoticon/208616/1" width="32" height="28">
 | !covid all                        | Use `!covid all` to get the <b>TOTAL GLOBAL</b> COVID-19 cases. Use `!covid all new` to get the <b>NEW GLOBAL</b> COVID-19 cases. Both are updated daily and the `!covid all new` command is just for that specific day, where `!covid all` is used for the total number of cases since COVID-19 became an issue.
 | !dance                            | <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e88cc46144b84732929c75512e8a2d3d/default/dark/1.0"> <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e88cc46144b84732929c75512e8a2d3d/default/dark/1.0"> GET DOWN ON IT <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e88cc46144b84732929c75512e8a2d3d/default/dark/1.0"> <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e88cc46144b84732929c75512e8a2d3d/default/dark/1.0">
