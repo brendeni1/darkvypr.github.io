@@ -23,7 +23,7 @@ Here is a list of all of the commands for my scuffed bot.
 | !commands                         | Brings you here. <img src="https://cdn.7tv.app/emote/60af60df84a2b8e6554d9af7/4x" width="28" height="28">
 | !coin                             | Flip a coin. Returns either: `Heads! (Yes)` or `Tails! (No)`.
 | !coomer                           | Edited... <img src="https://cdn.frankerfacez.com/emoticon/208616/1" width="32" height="28">
-| !covid all                        | Use `!covid all` to get the <b>TOTAL GLOBAL</b> COVID-19 cases. Use `!covid all new` to get the <b>NEW GLOBAL</b> COVID-19 cases. Both are updated daily and the `!covid all new` command is just for that specific day, where `!covid all` is used for the total number of cases since COVID-19 became an issue.
+| !covid `OPTIONAL IF SET: COUNTRY` | Get the COVID Stats for a specific country. <br /> <br /> <b>WITH YOUR OWN COUNTRY</b> <br /> If you would like to use your own location instead of specifying every time, use !setcountry `YOUR_COUNTRY`. Example: "`!setcountry canada`". This will make to so just saying "`!covid`" will tell you the data or the location you set. <br /> <br /> SPECIFIC
 | !dance                            | <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e88cc46144b84732929c75512e8a2d3d/default/dark/1.0"> <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e88cc46144b84732929c75512e8a2d3d/default/dark/1.0"> GET DOWN ON IT <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e88cc46144b84732929c75512e8a2d3d/default/dark/1.0"> <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e88cc46144b84732929c75512e8a2d3d/default/dark/1.0">
 | !derick                           | Classic Derick.
 | !discord // !disc                 | Join the discord server for the twitch homies. <img src="https://static-cdn.jtvnw.net/emoticons/v2/120232/default/dark/1.0">
@@ -65,6 +65,7 @@ Here is a list of all of the commands for my scuffed bot.
 | !plopcolour                       | [@XenoPlopQB](https://www.twitch.tv/XenoPlopQB)'s old username colour, stored for record.
 | !regex101pings                    | A link to all of the regex strings that make up [my pings](https://darkvypr.com/pings).
 | !say                              | Repeat what the user sent. Example Input: `DarkVypr: !say hello my name is darkvypr` Example Response: `VyprBot: 👥 hello my name is darkvypr`
+| !setcountry `YOUR_COUNTRY`        | Sets your country for use with the `!covid` command.
 | !settwitter `YOUR_TWITTER_NAME`   | Set the account for using the `!twitter` command. Usage: `!settwitter darkvyprr`. This should be your Twitter handle without the @ sign.
 | !site // !website // !links       | Get a link to [my website](https://darkvypr.com) with all of my links. <img src="https://cdn.betterttv.net/emote/60de01428ed8b373e421c395/1x">
 | !siterepo                         | Another useless command to anyone but [@DarkVypr](https://www.twitch.tv/darkvypr) (Site Source Code).
