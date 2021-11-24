@@ -66,6 +66,7 @@ Here is a list of all of the commands for my scuffed bot.
 | !plopcolour                       | [@XenoPlopQB](https://www.twitch.tv/XenoPlopQB)'s old username colour, stored for record.
 | !regex101pings                    | A link to all of the regex strings that make up [my pings](https://darkvypr.com/pings).
 | !say                              | Repeat what the user sent. Example Input: `DarkVypr: !say hello my name is darkvypr` Example Response: `VyprBot: 👥 hello my name is darkvypr`
+| !setbirthday `MONTH` `DAY` `YEAR` | This command sets your birthday to whatever date you specify. Required for most `!birthday` functionality. You can still check other people's birthdays without this set, they just can't check yours.
 | !setcountry `YOUR_COUNTRY`        | Sets your country for use with the `!covid` command.
 | !settwitter `YOUR_TWITTER_NAME`   | Set the account for using the `!twitter` command. Usage: `!settwitter darkvyprr`. This should be your Twitter handle without the @ sign.
 | !site // !website // !links       | Get a link to [my website](https://darkvypr.com) with all of my links. <img src="https://cdn.betterttv.net/emote/60de01428ed8b373e421c395/1x">
