@@ -12,6 +12,7 @@ Here is a list of all of the commands for my scuffed bot.
 | !adblock                          | Some adblockers that I had saved.
 | !alogs `USER` `CHANNEL`           | Get the logs of a user on any channel that is supported by [Apulxd Logs](https://logs.apulxd.ga/).
 | !anatole                          | Still no 7tv personal emotes. <img src="https://cdn.frankerfacez.com/emoticon/425196/4" width="28" height="22">
+| !birthday `OPTIONAL: USER`        | Puts your previously set birthday in chat. Use `!birthday USER` to get a users birthday. Example: "`!birthday VisioisiV`" would return the birthday of the user, VisioisiV.
 | !botlist                          | A list of bots that I made during the Hoss and IP grabber raids.
 | !breed `USER`                     | Breed with a specific user. <img src="https://cdn.7tv.app/emote/6160a2780f93a2d6173c0773/1x">
 | !bttvemote `EMOTE`                | Lookup a list of emotes on BTTV with a specific name. <img src="https://cdn.betterttv.net/emote/54fab7d2633595ca4c713abf/1x">
