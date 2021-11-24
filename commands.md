@@ -47,7 +47,7 @@ Here is a list of all of the commands for my scuffed bot.
 | !hug `USER`                       | Give a user a hug! <img src="https://cdn.7tv.app/emote/60b3ee1eb0e6e2b3a5f9577a/1x">
 | !imagerepo                        | Another useless command to anyone but [@DarkVypr](https://www.twitch.tv/darkvypr) (Image Storage).
 | !ip `IP_ADDRESS`                  | Look up the details of any IP address.
-| !kaf                              | Video of user [@KafieneOW](https://www.twitch.tv/kafieneow).
+| !kaf`1-2`                         | Videos/Screenshots of user [@KafieneOW](https://www.twitch.tv/kafieneow).
 | !kanye                            | Get a random quote from Mr. West. <img src="https://cdn.7tv.app/emote/6116f94cd281ac4021e0a4ac/1x">
 | !kiss `USER`                      | Kiss a user. <img src="https://cdn.7tv.app/emote/60fa7cfb4c5d42dbbc6d9eb1/1x">
 | !kitten                           | Bints Fault. <img src="https://cdn.7tv.app/emote/6180b02fb0bfad942897389a/1x">
