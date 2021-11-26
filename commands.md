@@ -1,8 +1,14 @@
-Here is a list of all of the commands for my scuffed bot.
+Here is a list of all of the commands for VyprBot.
 
 ---
 
 ***ITALIC, BOLDED TEXT*** = The command is only available for use in [my chat](https://www.twitch.tv/popout/darkvypr/chat?popout=).
+
+| Loyalty Commands                  | Description   
+| --------------------------------- | ---------------------------------------
+| !hunt                             | Hunt nammers! If you have never used this command, upon typing it, you will be auto-registered and you will be able to use the "`!hunt`" command once again. After using "`!hunt`", you will need to wait 1 hour before calling the command again.
+| !give `USER`                      | Give nammers away for others to enjoy. Example: "`!give VisioisiV 20`" will give the user "VisioisiV" 20 nammers.
+| !kill `NUMBER`                    | Kill a specific number of nammers. Example: "`!kill 20`" would remove 20 nammers from your balance.
 
 | Command + Variables               | Description   
 | --------------------------------- | ---------------------------------------
