@@ -80,7 +80,7 @@ Here is a list of all of the commands for my scuffed bot.
 | !vanish                           | Disappear and never come back. <img src="https://cdn.7tv.app/emote/6040aa41cf6746000db1034e/1x">
 | !vei                              | Spam <img src="https://cdn.7tv.app/emote/60ae95eaf6a2c3b332134fa6/1x"> 5 times.
 | !vyprcolour                       | [@DarkVypr](https://www.twitch.tv/DarkVypr)'s old username colour, stored for record.
-| !query `ASK_SOMETHING`            | Use the power of Wolfram|Alpha's shit API to answer a question. Example: "`!query population of canada`".
+| !query `ASK_SOMETHING`            | Use the power of Wolfram Alpha's shit API to answer a question. Example: "`!query population of canada`".
 | !xqcow                            | Average day in juicer chat. <img src="https://cdn.7tv.app/emote/615cc4aa6fe89bccc37c94a3/1x"> <img src="https://static-cdn.jtvnw.net/badges/v1/b817aba4-fad8-49e2-b88a-7cc744dfa6ec/1">
 | !yag                              | This [@Yagnesh](https://www.twitch.tv/Yagnesh) guy is so cringe wtf.
 | ***!youtube // !yt***             | Get a link to my YouTube channel (sub pls).
