@@ -74,6 +74,7 @@ Here is a list of all of the commands for VyprBot.
 | !plop`1-7`                        | Screenshots of user [@XenoPlopQB](https://www.twitch.tv/XenoPlopQB).
 | !plopcolour                       | [@XenoPlopQB](https://www.twitch.tv/XenoPlopQB)'s old username colour, stored for record.
 | !regex101pings                    | A link to all of the regex strings that make up [my pings](https://darkvypr.com/pings).
+| !query `ASK_SOMETHING`            | Use the power of Wolfram Alpha's shit API to answer a question. Example: "`!query population of canada`".
 | !say                              | Repeat what the user sent. Example Input: `DarkVypr: !say hello my name is darkvypr` Example Response: `VyprBot: 👥 hello my name is darkvypr`
 | !setbirthday `MONTH` `DAY` `YEAR` | This command sets your birthday to whatever date you specify. Required for most `!birthday` functionality. You can still check other people's birthdays without this set, they just can't check yours. Example: "`!setbirthday August 14 2005`".
 | !setcountry `YOUR_COUNTRY`        | Sets your country for use with the `!covid` command.
@@ -86,7 +87,8 @@ Here is a list of all of the commands for VyprBot.
 | !vanish                           | Disappear and never come back. <img src="https://cdn.7tv.app/emote/6040aa41cf6746000db1034e/1x">
 | !vei                              | Spam <img src="https://cdn.7tv.app/emote/60ae95eaf6a2c3b332134fa6/1x"> 5 times.
 | !vyprcolour                       | [@DarkVypr](https://www.twitch.tv/DarkVypr)'s old username colour, stored for record.
-| !query `ASK_SOMETHING`            | Use the power of Wolfram Alpha's shit API to answer a question. Example: "`!query population of canada`".
+| !whois `DOMAIN`                   | Lookup info on a specific domain using the WHOIS database. Please only use this command if you know what it's for, I only get 500 API calls a month.
+| !wyr                              | Get a random question from the Would You Rather API.
 | !xqcow                            | Average day in juicer chat. <img src="https://cdn.7tv.app/emote/615cc4aa6fe89bccc37c94a3/1x"> <img src="https://static-cdn.jtvnw.net/badges/v1/b817aba4-fad8-49e2-b88a-7cc744dfa6ec/1">
 | !yag                              | This [@Yagnesh](https://www.twitch.tv/Yagnesh) guy is so cringe wtf.
 | ***!youtube // !yt***             | Get a link to my YouTube channel (sub pls).
