@@ -85,6 +85,7 @@ Here is a list of all of the commands for VyprBot.
 | !site // !website // !links       | Get a link to [my website](https://darkvypr.com) with all of my links. <img src="https://cdn.betterttv.net/emote/60de01428ed8b373e421c395/1x">
 | !siterepo                         | Another useless command to anyone but [@DarkVypr](https://www.twitch.tv/darkvypr) (Site Source Code).
 | !specs                            | A list of my PC's specs. <img src="https://cdn.7tv.app/emote/60daca8c9a9fbb6acdbb6979/1x">
+| !time `OPTIONAL: USER`            | Get the time of the location that you previously set. If you would like to check a user's timem use the: "`!time USERNAME_HERE`" command. Example: "`!time darkvypr`".
 | !twitter                          | <img src="https://cdn.7tv.app/emote/617c8da3c632476d20d05e31/1x"> ***BEFORE USING THIS COMMAND, SEE !settwitter*** <img src="https://cdn.7tv.app/emote/617c8da3c632476d20d05e31/1x"> <br /> <br /> Puts a link to the Twitter account that you previously set.
 | !urban `PHRASE`                   | Use Urban Dictionary to look up the meaning of a word. Example: "`!urban lmfao`". There is some square brackets in the response, juts act as if they didn't exist. It's just a werid formatting bug.
 | !vanish                           | Disappear and never come back. <img src="https://cdn.7tv.app/emote/6040aa41cf6746000db1034e/1x">
