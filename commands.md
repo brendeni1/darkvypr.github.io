@@ -37,6 +37,7 @@ Here is a list of all of the commands for VyprBot.
 | !derick                           | Classic Derick.
 | !discord // !disc                 | Join the discord server for the twitch homies. <img src="https://static-cdn.jtvnw.net/emoticons/v2/120232/default/dark/1.0">
 | !dogjam                           | <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x">
+| !domain `DOMAIN`                   | Lookup info on a specific domain using the WHOIS database. Please only use this command if you know what it's for, I only get 500 API calls a month.
 | !emotes `USER`                    | List all of the emotes, badges and assets for the specified channel.
 | !farmer                           | Get a link to the Twitch Channel Points Farmer V2. Also can be used to farm gift subs. (This may or may not work anymore, Twitch may have broken this one <img src="https://cdn.frankerfacez.com/emoticon/425196/4" width="28" height="22">)
 | !ffzemote `EMOTE`                 | Get a list of emotes on FFZ with a specific keyword. <img src="https://static-cdn.jtvnw.net/emoticons/v2/65/default/dark/1.0">
@@ -90,7 +91,6 @@ Here is a list of all of the commands for VyprBot.
 | !vanish                           | Disappear and never come back. <img src="https://cdn.7tv.app/emote/6040aa41cf6746000db1034e/1x">
 | !vei                              | Spam <img src="https://cdn.7tv.app/emote/60ae95eaf6a2c3b332134fa6/1x"> 5 times.
 | !vyprcolour                       | [@DarkVypr](https://www.twitch.tv/DarkVypr)'s old username colour, stored for record.
-| !whois `DOMAIN`                   | Lookup info on a specific domain using the WHOIS database. Please only use this command if you know what it's for, I only get 500 API calls a month.
 | !wyr                              | Get a random question from the Would You Rather API.
 | !xqcow                            | Average day in juicer chat. <img src="https://cdn.7tv.app/emote/615cc4aa6fe89bccc37c94a3/1x"> <img src="https://static-cdn.jtvnw.net/badges/v1/b817aba4-fad8-49e2-b88a-7cc744dfa6ec/1">
 | !yag                              | This [@Yagnesh](https://www.twitch.tv/Yagnesh) guy is so cringe wtf.
