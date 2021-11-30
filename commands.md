@@ -75,6 +75,7 @@ Here is a list of all of the commands for VyprBot.
 | !plop`1-7`                        | Screenshots of user [@XenoPlopQB](https://www.twitch.tv/XenoPlopQB).
 | !plopcolour                       | [@XenoPlopQB](https://www.twitch.tv/XenoPlopQB)'s old username colour, stored for record.
 | !regex101pings                    | A link to all of the regex strings that make up [my pings](https://darkvypr.com/pings).
+| !request                          | Info on how to get the bot added to your chat.
 | !query `ASK_SOMETHING`            | Use the power of Wolfram Alpha's shit API to answer a question. Example: "`!query population of canada`".
 | !say                              | Repeat what the user sent. Example Input: `DarkVypr: !say hello my name is darkvypr` Example Response: `VyprBot: 👥 hello my name is darkvypr`
 | !setbirthday `MONTH` `DAY` `YEAR` | This command sets your birthday to whatever date you specify. Required for most `!birthday` functionality. You can still check other people's birthdays without this set, they just can't check yours. Example: "`!setbirthday August 14 2005`".
