@@ -40,7 +40,6 @@ Here is a list of all of the commands for VyprBot.
 | !emotes `USER`                    | List all of the emotes, badges and assets for the specified channel.
 | !farmer                           | Get a link to the Twitch Channel Points Farmer V2. Also can be used to farm gift subs. (This may or may not work anymore, Twitch may have broken this one <img src="https://cdn.frankerfacez.com/emoticon/425196/4" width="28" height="22">)
 | !ffzemote `EMOTE`                 | Get a list of emotes on FFZ with a specific keyword. <img src="https://static-cdn.jtvnw.net/emoticons/v2/65/default/dark/1.0">
-| !filerepo                         | Useless to anyone but [@DarkVypr](https://www.twitch.tv/darkvypr) (File Storage).
 | !filters                          | Also useless to anyone but [@DarkVypr](https://www.twitch.tv/darkvypr) (Chatterino Settings Backup).
 | !followbutton                     | A tutorial on how to set up the follow button for [Chatterino Homies](https://github.com/itzAlex/chatterino7/releases).
 | !followers `USER`                 | Get a list of who is following a specific user on Twitch.
@@ -52,7 +51,6 @@ Here is a list of all of the commands for VyprBot.
 | !hare                             | An old command for the location of hare in Far Cry 5. <img src="https://cdn.7tv.app/emote/610725797c9d47b53ef7d244/1x">
 | !harrison`1-3`                    | Screenshots/Videos of user [@hhharrisonnn](https://www.twitch.tv/hhharrisonnn).
 | !hug `USER`                       | Give a user a hug! <img src="https://cdn.7tv.app/emote/60b3ee1eb0e6e2b3a5f9577a/1x">
-| !imagerepo                        | Another useless command to anyone but [@DarkVypr](https://www.twitch.tv/darkvypr) (Image Storage).
 | !ip `IP_ADDRESS`                  | Look up the details of any IP address.
 | !isbot `USER`                     | Check whether the specified user is a bot or not. Example: "`!isbot Fossabot`".
 | !kaf`1-2`                         | Videos/Screenshots of user [@KafieneOW](https://www.twitch.tv/kafieneow).
@@ -82,7 +80,6 @@ Here is a list of all of the commands for VyprBot.
 | !setlocation                      | To use the "`!time`" and "`!covid`" command, you must first set your location. Example: "`!setlocation lasalle ontario`".
 | !settwitter `YOUR_TWITTER_NAME`   | Set the account for using the `!twitter` command. Usage: `!settwitter darkvyprr`. This should be your Twitter handle without the @ sign.
 | !site // !website // !links       | Get a link to [my website](https://darkvypr.com) with all of my links. <img src="https://cdn.betterttv.net/emote/60de01428ed8b373e421c395/1x">
-| !siterepo                         | Another useless command to anyone but [@DarkVypr](https://www.twitch.tv/darkvypr) (Site Source Code).
 | !specs                            | A list of my PC's specs. <img src="https://cdn.7tv.app/emote/60daca8c9a9fbb6acdbb6979/1x">
 | !time `@USER_OR_LOCATION`         | This will get the time for the location you previously set. If you would like to check someone else's time, you can use "`!time @USER`". Make sure to **INCLUDE THE @ SIGN!!!!!** Example: "`!time @VisioisiV`". If you would like to check the time for a specific location, you can use "`!time LOCATION_NAME`". Example: "`!time paris france`". Leave this blank to check your location.
 | !twitter                          | <img src="https://cdn.7tv.app/emote/617c8da3c632476d20d05e31/1x"> ***BEFORE USING THIS COMMAND, SEE !settwitter*** <img src="https://cdn.7tv.app/emote/617c8da3c632476d20d05e31/1x"> <br /> <br /> Puts a link to the Twitter account that you previously set.
