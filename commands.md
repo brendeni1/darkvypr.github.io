@@ -70,7 +70,7 @@ Here is a list of all of the commands for VyprBot.
 | !picsbeforedisaster               | Screenshot of user [@hhharrisonnn](https://www.twitch.tv/hhharrisonnn). <img src="https://cdn.7tv.app/emote/60b146c5ad80a582b49c2d2f/1x">
 | !ping // !info // !help           | Get the latency, uptime, commands used, prefix and other info about the bot! <img src="https://cdn.7tv.app/emote/60537cea9d9e96000d244f19/1x">
 | !pings                            | A list of [@DarkVypr](https://www.twitch.tv/darkvypr)'s pings. <img src="https://cdn.7tv.app/emote/60afdf8dd2e19045eed5b8b3/1x">
-| !plop`1-8`                        | Screenshots of user [@XenoPlopQB](https://www.twitch.tv/XenoPlopQB).
+| !plop`1-9`                        | Screenshots of user [@XenoPlopQB](https://www.twitch.tv/XenoPlopQB).
 | !plopcolour                       | [@XenoPlopQB](https://www.twitch.tv/XenoPlopQB)'s old username colour, stored for record.
 | !regex101pings                    | A link to all of the regex strings that make up [my pings](https://darkvypr.com/pings).
 | !request                          | Info on how to get the bot added to your chat.
