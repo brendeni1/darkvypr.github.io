@@ -34,7 +34,7 @@ SSD #1: Samsung 970 EVO 500 GB
 SSD #2: Sabrent Rocket NVMe 1 TB
 
 
-SSHD: Segate 2 TB FireCuda Solid State Hard Drive
+SSHD: Seagate 2 TB FireCuda Solid State Hard Drive
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # KEYBOARD
