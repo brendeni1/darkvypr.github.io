@@ -10,7 +10,7 @@ Owner Twitch : `DarkVypr`
 
 # Bot Info
 
-This bot was created to replace all of the Fossabot commands that I had in my chat, though it has some cool commands that Fossa can't do. It was also kinda cool to learn the basics of JS but don't ask me for help with that lol.
+I originally made this bot to replace some of the Fossabot commands that I had, but it eventually just turned into a project that I like working on and dumping time into lol. I added a point system, various user-based commands and shit like that.
 
 ---
 
