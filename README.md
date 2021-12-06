@@ -14,5 +14,5 @@ Yo whats up I made a [website](https://darkvypr.com) cause why not <img src="htt
 
 200 later, still growing! <img src="https://i.darkvypr.com/200commits.png" 
      width="1122" 
-     height="61" />
+     height="55" />
 
