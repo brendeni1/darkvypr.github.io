@@ -10,6 +10,8 @@ Here is a list of all of the commands for VyprBot.
 | !kill `NUMBER`                    | Kill a specific number of nammers. Example: "`!kill 20`" would remove 20 nammers from your balance.
 | !give `USER` `NUMBER`             | Give a specific amount of nammers to another user. Example: "`!give VisioisiV 20`".
 | !nammers `OPTIONAL: USER`         | Check your current balance of nammers. This supports checking users, Example: "`!nammers VisioisiV`". Leave blank to check your own balance.
+| !gamble `AMOUNT`                  | Have a 50/50 shot at winning the amount of points you bet. Example: "`!gamble 300`". This would give you 300 nammers if you win, but if you lose, you lose 300 nammers. You can also do "`!gamble all`" to gamble all of your nammers.
+
 
 | Command + Variables               | Description   
 | --------------------------------- | ---------------------------------------
