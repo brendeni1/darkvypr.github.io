@@ -12,7 +12,7 @@ Yo whats up I made a [website](https://darkvypr.com) cause why not <img src="htt
      width="1100" 
      height="60" />
 
-100th times the charm! <img src="https://i.darkvypr.com/200commits.png" 
+200 later, still growing! <img src="https://i.darkvypr.com/200commits.png" 
      width="1122" 
      height="61" />
 
