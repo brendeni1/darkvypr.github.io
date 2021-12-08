@@ -20,10 +20,7 @@ Here is a list of all of the commands for VyprBot.
 | !8ball `QUESTION`                 | Ask the 8ball a question. 
 | !adblock                          | Some adblockers that I had saved.
 | !alogs `USER` `CHANNEL`           | Get the logs of a user on any channel that is supported by [Apulxd Logs](https://logs.apulxd.ga/).
-| !anatole                          | Still no 7tv personal emotes. <img src="https://cdn.frankerfacez.com/emoticon/425196/4" width="28" height="22">
-| !birthday `OPTIONAL: USER`        | Puts your previously set birthday in chat. Use `!birthday USER` to get a users birthday. Example: "`!birthday VisioisiV`" would return the birthday of the user, VisioisiV.
 | !botlist                          | A list of bots that I made during the Hoss and IP grabber raids.
-| !breed `USER`                     | Breed with a specific user. <img src="https://cdn.7tv.app/emote/6160a2780f93a2d6173c0773/1x">
 | !bttvemote `EMOTE`                | Lookup a list of emotes on BTTV with a specific name. <img src="https://cdn.betterttv.net/emote/54fab7d2633595ca4c713abf/1x">
 | !chatterino                       | Get links to [Chatterino Homies](https://github.com/itzAlex/chatterino7/releases) and [Dankerino](https://github.com/Mm2PL/dankerino/releases/tag/nightly-build).
 | !cat                              | Get a random image of a cat. <img src="https://cdn.betterttv.net/emote/60d1079b8ed8b373e421781d/1x">
@@ -33,18 +30,12 @@ Here is a list of all of the commands for VyprBot.
 | !commands                         | Brings you here. <img src="https://cdn.7tv.app/emote/60af60df84a2b8e6554d9af7/4x" width="28" height="28">
 | !coin                             | Flip a coin. Returns either: `Heads! (Yes)` or `Tails! (No)`.
 | !code `COMMAND`                   | View the source code for any command. Example: "`!code weather`".
-| !coomer                           | Edited... <img src="https://cdn.frankerfacez.com/emoticon/208616/1" width="32" height="28">
-| !covid `@USER_OR_LOCATION`      | This will get the COVID stats for the location you previously set. If you would like to check someone else's COVID stats, you can use "`!covid @USER`". Make sure to **INCLUDE THE @ SIGN!!!!!** Example: "`!covid @VisioisiV`". If you would like to check the COVID stats for a specific location, you can use "`!covid LOCATION_NAME`". Example: "`!covid paris france`". Leave this blank to check your location.
-| !dance                            | <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e88cc46144b84732929c75512e8a2d3d/default/dark/1.0"> <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e88cc46144b84732929c75512e8a2d3d/default/dark/1.0"> GET DOWN ON IT <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e88cc46144b84732929c75512e8a2d3d/default/dark/1.0"> <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e88cc46144b84732929c75512e8a2d3d/default/dark/1.0">
-| !define `WORD_OR_SENTENCE`        | Get the meaning of a word or sentence. Examples: "`!define hello`" or "`!define how are you`".
-| !derick                           | Classic Derick.
-| !discord // !disc                 | Join the discord server for the twitch homies. <img src="https://static-cdn.jtvnw.net/emoticons/v2/120232/default/dark/1.0">
-| !dogjam                           | <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x"> <img src="https://cdn.7tv.app/emote/60b64abe1f00962447ef6deb/1x">
-| !domain `DOMAIN`                   | Lookup info on a specific domain using the WHOIS database. Please only use this command if you know what it's for, I only get 500 API calls a month.
+| !covid `@USER_OR_LOCATION`        | This will get the COVID stats for the location you previously set. If you would like to check someone else's COVID stats, you can use "`!covid @USER`". Make sure to **INCLUDE THE @ SIGN!!!!!** Example: "`!covid @VisioisiV`". If you would like to check the COVID stats for a specific location, you can use "`!covid LOCATION_NAME`". Example: "`!covid paris france`". Leave this blank to check your location.
+| !define `WORD_OR_PHRASE`          | Get the meaning of a word or sentence. Examples: "`!define hello`" or "`!define how are you`".
+| !domain `DOMAIN`                  | Lookup info on a specific domain using the WHOIS database. Please only use this command if you know what it's for, I only get 500 API calls a month.
 | !emotes `USER`                    | List all of the emotes, badges and assets for the specified channel.
 | !farmer                           | Get a link to the Twitch Channel Points Farmer V2. Also can be used to farm gift subs. (This may or may not work anymore, Twitch may have broken this one <img src="https://cdn.frankerfacez.com/emoticon/425196/4" width="28" height="22">)
 | !ffzemote `EMOTE`                 | Get a list of emotes on FFZ with a specific keyword. <img src="https://static-cdn.jtvnw.net/emoticons/v2/65/default/dark/1.0">
-| !filters                          | Also useless to anyone but [@DarkVypr](https://www.twitch.tv/darkvypr) (Chatterino Settings Backup).
 | !followbutton                     | A tutorial on how to set up the follow button for [Chatterino Homies](https://github.com/itzAlex/chatterino7/releases).
 | !followers `USER`                 | Get a list of who is following a specific user on Twitch.
 | !following `USER`                 | Get a list of who a specific user is following on Twitch.
@@ -60,23 +51,17 @@ Here is a list of all of the commands for VyprBot.
 | !kaf`1-2`                         | Videos/Screenshots of user [@KafieneOW](https://www.twitch.tv/kafieneow).
 | !kanye                            | Get a random quote from Mr. West. <img src="https://cdn.7tv.app/emote/6116f94cd281ac4021e0a4ac/1x">
 | !kiss `USER`                      | Kiss a user. <img src="https://cdn.7tv.app/emote/60fa7cfb4c5d42dbbc6d9eb1/1x">
-| !kitten                           | Bints Fault. <img src="https://cdn.7tv.app/emote/6180b02fb0bfad942897389a/1x">
 | !list // !cutelist                | A link to the cutelist made by [@snowstormcs](https://www.twitch.tv/snowstormcs).
 | !logs `USER` `CHANNEL`            | Get the logs of a user on any channel that is supported by [Leppunen's Logs](https://logs.ivr.fi/).
-| !marbles                          | Easiest marbles win of my life. <img src="https://static-cdn.jtvnw.net/emoticons/v2/308078032/default/dark/1.0">
 | !minglee                          | <img src="https://static-cdn.jtvnw.net/emoticons/v2/68856/default/dark/1.0"> <img src="https://pajbot.com/static/emoji-v2/img/twitter/64/1f1e8-1f1f3.png" width="22" height="22"> The sun in the sky is red. In our hearts is the sun Mao Zedong.
 | !modlookup `USER`                 | View a rough list of people that a user mods for. (Not 100% accurate)
 | !nam                              | <img src="https://cdn.7tv.app/emote/60b32c4cae6bde02439f2e4e/1x"> <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e88cc46144b84732929c75512e8a2d3d/default/dark/1.0"> <img src="https://cdn.7tv.app/emote/60b32c4cae6bde02439f2e4e/1x">
-| !noah                             | Screenshot of user [@NEWOAH_](https://www.twitch.tv/newoah_).
-| !numbers                          | Another useless command to anyone but [@DarkVypr](https://www.twitch.tv/darkvypr) (Hashes and Useful #'s).
 | !ocr `DIRECT_LINK_TO_IMAGE` `LANG_CODE`| Get the text out of an image. <br /> <br /> The image you send must be mostly text. Images and art confuses the OCR API and will likely not give a result. If you don't get a result, try colouring over the images with a black brush in Paint or covering them up with something. <br /> <br /> Use The following language codes to specify the language of text in an image: <br /> <br /> Arabic = `ara` <br /> Bulgarian = `bul` <br /> Chinese(Simplified) = `chs` <br /> Chinese(Traditional) = `cht` <br /> Croatian = `hrv` <br /> Czech = `cze` <br /> Danish = `dan` <br /> Dutch = `dut` <br /> Finnish = `fin` <br /> French = `fre` <br /> German = `ger` <br /> Greek = `gre` <br /> Hungarian = `hun` <br /> Korean = `kor` <br /> Italian = `ita` <br /> Japanese = `jpn` <br /> Polish = `pol` <br /> Portuguese = `por` <br /> Russian = `rus` <br /> Slovenian = `slv` <br /> Spanish = `spa` <br /> Swedish = `swe` <br /> Turkish = `tur` <br /> <br /> This would mean that saying: `!ocr https://i.imgur.com/O6yJV4b.png jpn` would return `こんにちは` or "hello" in Japanese. The `jpn` after the URL indicates that the language in the image is Japanese. If you put an image that has any non-english text, it will return an incorrect or blank result. If you are using !ocr with english text, you do not need to specify the language, it will default to english.
 | !pfp `USER`                       | Get a direct link to the profile picture of any user. Example: "`!pfp darkvypr`".
 | !picsbeforedisaster               | Screenshot of user [@hhharrisonnn](https://www.twitch.tv/hhharrisonnn). <img src="https://cdn.7tv.app/emote/60b146c5ad80a582b49c2d2f/1x">
 | !ping // !info // !help           | Get the latency, uptime, commands used, prefix and other info about the bot! <img src="https://cdn.7tv.app/emote/60537cea9d9e96000d244f19/1x">
 | !pings                            | A list of [@DarkVypr](https://www.twitch.tv/darkvypr)'s pings. <img src="https://cdn.7tv.app/emote/60afdf8dd2e19045eed5b8b3/1x">
-| !plop`1-10`                        | Screenshots of user [@XenoPlopQB](https://www.twitch.tv/XenoPlopQB).
-| !plopcolour                       | [@XenoPlopQB](https://www.twitch.tv/XenoPlopQB)'s old username colour, stored for record.
-| !regex101pings                    | A link to all of the regex strings that make up [my pings](https://darkvypr.com/pings).
+| !plop`1-10`                       | Screenshots of user [@XenoPlopQB](https://www.twitch.tv/XenoPlopQB).
 | !request                          | Info on how to get the bot added to your chat.
 | !query `ASK_SOMETHING`            | Use the power of Wolfram Alpha's shit API to answer a question. Example: "`!query population of canada`".
 | !say                              | Repeat what the user sent. Example Input: `DarkVypr: !say hello my name is darkvypr` Example Response: `VyprBot: 👥 hello my name is darkvypr`
@@ -84,18 +69,10 @@ Here is a list of all of the commands for VyprBot.
 | !setlocation                      | To use the "`!time`" and "`!covid`" command, you must first set your location. Example: "`!setlocation lasalle ontario`".
 | !settwitter `YOUR_TWITTER_NAME`   | Set the account for using the `!twitter` command. Usage: `!settwitter darkvyprr`. This should be your Twitter handle without the @ sign.
 | !site // !website // !links       | Get a link to [my website](https://darkvypr.com) with all of my links. <img src="https://cdn.betterttv.net/emote/60de01428ed8b373e421c395/1x">
-| !specs                            | A list of my PC's specs. <img src="https://cdn.7tv.app/emote/60daca8c9a9fbb6acdbb6979/1x">
 | !suggest `SUGGESTION`             | Suggest a feature that you would like. You can also use this command to ask for the bot to be added to your channel.
 | !time `@USER_OR_LOCATION`         | This will get the time for the location you previously set. If you would like to check someone else's time, you can use "`!time @USER`". Make sure to **INCLUDE THE @ SIGN!!!!!** Example: "`!time @VisioisiV`". If you would like to check the time for a specific location, you can use "`!time LOCATION_NAME`". Example: "`!time paris france`". Leave this blank to check your location.
 | !twitter                          | <img src="https://cdn.7tv.app/emote/617c8da3c632476d20d05e31/1x"> ***BEFORE USING THIS COMMAND, SEE !settwitter*** <img src="https://cdn.7tv.app/emote/617c8da3c632476d20d05e31/1x"> <br /> <br /> Puts a link to the Twitter account that you previously set.
 | !urban `PHRASE`                   | Use Urban Dictionary to look up the meaning of a word. Example: "`!urban lmfao`". There is some square brackets in the response, juts act as if they didn't exist. It's just a werid formatting bug.
 | !vanish                           | Disappear and never come back. <img src="https://cdn.7tv.app/emote/6040aa41cf6746000db1034e/1x">
-| !vei                              | Spam <img src="https://cdn.7tv.app/emote/60ae95eaf6a2c3b332134fa6/1x"> 5 times.
-| !vyprcolour                       | [@DarkVypr](https://www.twitch.tv/DarkVypr)'s old username colour, stored for record.
 | !weather `@USER_OR_LOCATION`      | This will get the weather for the location you previously set. If you would like to check someone else's weather, you can use "`!weather @USER`". Make sure to **INCLUDE THE @ SIGN!!!!!** Example: "`!weather @VisioisiV`". If you would like to check the weather for a specific location, you can use "`!weather LOCATION_NAME`". Example: "`!weather paris france`". Leave this blank to check your location.
 | !wyr                              | Get a random question from the Would You Rather API.
-| !xqcow                            | Average day in juicer chat. <img src="https://cdn.7tv.app/emote/615cc4aa6fe89bccc37c94a3/1x"> <img src="https://static-cdn.jtvnw.net/badges/v1/b817aba4-fad8-49e2-b88a-7cc744dfa6ec/1">
-| !yag                              | This [@Yagnesh](https://www.twitch.tv/Yagnesh) guy is so cringe wtf.
-| ***!youtube // !yt***             | Get a link to my YouTube channel (sub pls).
-| !zamn                             | <img src="https://cdn.7tv.app/emote/616cfc0b5ff09767de29663d/1x"> [she's 12???](https://knowyourmeme.com/memes/zamn-shes-12) --> This is just a backup for the "ZAMN" keyword in my Fossabot settings.
-| !zhandy                           | Some furry that likes watching cats do weird stuff ig. <img src="https://cdn.frankerfacez.com/emoticon/107715/1">
