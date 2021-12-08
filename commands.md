@@ -7,7 +7,7 @@ Here is a list of all of the commands for VyprBot.
 | Loyalty Commands                  | Description   
 | --------------------------------- | ---------------------------------------
 | !hunt                             | Hunt nammers! If you have never used this command, upon typing it, you will be auto-registered and you will be able to use the "`!hunt`" command once again. After using "`!hunt`", you will need to wait 1 hour before calling the command again.
-| !cdr                              | Purcase a cooldown reset for the "`!hunt`" command. This costs 20 nammers and is available once every 2 hours.
+| !cdreset                              | Purcase a cooldown reset for the "`!hunt`" command. This costs 20 nammers and is available once every 2 hours.
 | !kill `NUMBER`                    | Kill a specific number of nammers. Example: "`!kill 20`" would remove 20 nammers from your balance.
 | !give `USER` `NUMBER`             | Give a specific amount of nammers to another user. Example: "`!give VisioisiV 20`".
 | !nammers `OPTIONAL: USER`         | Check your current balance of nammers. This supports checking users, Example: "`!nammers VisioisiV`". Leave blank to check your own balance.
