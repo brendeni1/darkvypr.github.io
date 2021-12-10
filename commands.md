@@ -13,6 +13,7 @@ Here is a list of all of the commands for VyprBot.
 | !nammers `OPTIONAL: USER`         | Check your current balance of nammers. This supports checking users, Example: "`!nammers VisioisiV`". Leave blank to check your own balance.
 | !gamble `AMOUNT`                  | Have a 50/50 shot at winning the amount of points you bet. Example: "`!gamble 300`". This would give you 300 nammers if you win, but if you lose, you lose 300 nammers. You can also do "`!gamble all`" to gamble all of your nammers.
 
+
 | Command + Variables               | Description   
 | --------------------------------- | ---------------------------------------
 | !7tvemote `EMOTE`                 | Find an emote on 7tv by the name. <img src="https://cdn.7tv.app/emote/604e825e688b360014d83d7e/1x">
@@ -58,6 +59,7 @@ Here is a list of all of the commands for VyprBot.
 | !modlookup `USER`                 | View a rough list of people that a user mods for. (Not 100% accurate)
 | !nam                              | <img src="https://cdn.7tv.app/emote/60b32c4cae6bde02439f2e4e/1x"> <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e88cc46144b84732929c75512e8a2d3d/default/dark/1.0"> <img src="https://cdn.7tv.app/emote/60b32c4cae6bde02439f2e4e/1x">
 | !ocr `DIRECT_LINK_TO_IMAGE` `LANG_CODE`| Get the text out of an image. <br /> <br /> The image you send must be mostly text. Images and art confuses the OCR API and will likely not give a result. If you don't get a result, try colouring over the images with a black brush in Paint or covering them up with something. <br /> <br /> Use The following language codes to specify the language of text in an image: <br /> <br /> Arabic = `ara` <br /> Bulgarian = `bul` <br /> Chinese(Simplified) = `chs` <br /> Chinese(Traditional) = `cht` <br /> Croatian = `hrv` <br /> Czech = `cze` <br /> Danish = `dan` <br /> Dutch = `dut` <br /> Finnish = `fin` <br /> French = `fre` <br /> German = `ger` <br /> Greek = `gre` <br /> Hungarian = `hun` <br /> Korean = `kor` <br /> Italian = `ita` <br /> Japanese = `jpn` <br /> Polish = `pol` <br /> Portuguese = `por` <br /> Russian = `rus` <br /> Slovenian = `slv` <br /> Spanish = `spa` <br /> Swedish = `swe` <br /> Turkish = `tur` <br /> <br /> This would mean that saying: `!ocr https://i.imgur.com/O6yJV4b.png jpn` would return `こんにちは` or "hello" in Japanese. The `jpn` after the URL indicates that the language in the image is Japanese. If you put an image that has any non-english text, it will return an incorrect or blank result. If you are using !ocr with english text, you do not need to specify the language, it will default to english.
+| !part                             | If you would like VyprBot to leave your chat, use this command. <img src="https://cdn.7tv.app/emote/61a0f0cfe9684edbbc36e976/1x">
 | !pfp `USER`                       | Get a direct link to the profile picture of any user. Example: "`!pfp darkvypr`".
 | !picsbeforedisaster               | Screenshot of user [@hhharrisonnn](https://www.twitch.tv/hhharrisonnn). <img src="https://cdn.7tv.app/emote/60b146c5ad80a582b49c2d2f/1x">
 | !ping // !info // !help           | Get the latency, uptime, commands used, prefix and other info about the bot! <img src="https://cdn.7tv.app/emote/60537cea9d9e96000d244f19/1x">
@@ -76,5 +78,6 @@ Here is a list of all of the commands for VyprBot.
 | !urban `PHRASE`                   | Use Urban Dictionary to look up the meaning of a word. Example: "`!urban lmfao`". There is some square brackets in the response, juts act as if they didn't exist. It's just a werid formatting bug.
 | !vanish                           | Disappear and never come back. <img src="https://cdn.7tv.app/emote/6040aa41cf6746000db1034e/1x">
 | !vbsuggest `SUGGESTION`           | Suggest a feature that you would like. You can also use this command to ask for the bot to be added to your channel.
+| !vbunset `ID_OF_SUGGESTION`       | Unset a suggestion that you previously sent. If you dont know the ID, ask me. Please try to remember it though.
 | !weather `@USER_OR_LOCATION`      | This will get the weather for the location you previously set. If you would like to check someone else's weather, you can use "`!weather @USER`". Make sure to **INCLUDE THE @ SIGN!!!!!** Example: "`!weather @VisioisiV`". If you would like to check the weather for a specific location, you can use "`!weather LOCATION_NAME`". Example: "`!weather paris france`". Leave this blank to check your location.
 | !wyr                              | Get a random question from the Would You Rather API.
