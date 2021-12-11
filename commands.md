@@ -7,7 +7,7 @@ Here is a list of all of the commands for VyprBot.
 | Loyalty Commands                  | Description   
 | --------------------------------- | ---------------------------------------
 | !hunt                             | Hunt nammers! If you have never used this command, upon typing it, you will be auto-registered and you will be able to use the "`!hunt`" command once again. After using "`!hunt`", you will need to wait 1 hour before calling the command again.
-| !cdreset                              | Purcase a cooldown reset for the "`!hunt`" command. This costs 20 nammers and is available once every 2 hours.
+| !cdreset                          | Purcase a cooldown reset for the "`!hunt`" command. This costs 20 nammers and is available once every 2 hours.
 | !kill `NUMBER`                    | Kill a specific number of nammers. Example: "`!kill 20`" would remove 20 nammers from your balance.
 | !give `USER` `NUMBER`             | Give a specific amount of nammers to another user. Example: "`!give VisioisiV 20`".
 | !nammers `OPTIONAL: USER`         | Check your current balance of nammers. This supports checking users, Example: "`!nammers VisioisiV`". Leave blank to check your own balance.
@@ -77,7 +77,9 @@ Here is a list of all of the commands for VyprBot.
 | !twitter                          | <img src="https://cdn.7tv.app/emote/617c8da3c632476d20d05e31/1x"> ***BEFORE USING THIS COMMAND, SEE !settwitter*** <img src="https://cdn.7tv.app/emote/617c8da3c632476d20d05e31/1x"> <br /> <br /> Puts a link to the Twitter account that you previously set.
 | !urban `PHRASE`                   | Use Urban Dictionary to look up the meaning of a word. Example: "`!urban lmfao`". There is some square brackets in the response, juts act as if they didn't exist. It's just a werid formatting bug.
 | !vanish                           | Disappear and never come back. <img src="https://cdn.7tv.app/emote/6040aa41cf6746000db1034e/1x">
+| !vbpermit `USER`                  | Permit a user to use commands that can only be used by being permitted. This command can only be executed by the broadcaster of said channel or by me globally.
 | !vbsuggest `SUGGESTION`           | Suggest a feature that you would like. You can also use this command to ask for the bot to be added to your channel.
+| !vbunpermit `USER`                | Unpermit a user from using commands that can only be used by being permitted. This command can only be executed by the broadcaster of said channel or by me globally.
 | !vbunset `ID_OF_SUGGESTION`       | Unset a suggestion that you previously sent. If you dont know the ID, ask me. Please try to remember it though.
 | !weather `@USER_OR_LOCATION`      | This will get the weather for the location you previously set. If you would like to check someone else's weather, you can use "`!weather @USER`". Make sure to **INCLUDE THE @ SIGN!!!!!** Example: "`!weather @VisioisiV`". If you would like to check the weather for a specific location, you can use "`!weather LOCATION_NAME`". Example: "`!weather paris france`". Leave this blank to check your location.
 | !wyr                              | Get a random question from the Would You Rather API.
