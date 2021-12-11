@@ -2,7 +2,8 @@ Here is a list of all of the commands for VyprBot.
 
 ---
 
-***ITALIC, BOLDED TEXT*** = The command is only available for use in [my chat](https://www.twitch.tv/popout/darkvypr/chat?popout=).
+*ITALIC* = The command is only available for use in [my chat](https://www.twitch.tv/popout/darkvypr/chat?popout=).
+**BOLD** = You must be permitted in the channel to use the command. Channel broadcasters are automatically permitted.
 
 | Loyalty Commands                  | Description   
 | --------------------------------- | ---------------------------------------
@@ -28,7 +29,7 @@ Here is a list of all of the commands for VyprBot.
 | !catfact                          | Get a random fact about cats. <img src="https://cdn.7tv.app/emote/60b2b63c019c994a3a93f66c/1x">
 | !channels                         | List the channels that [@VyprBot](https://www.twitch.tv/VyprBot) is in and how to get the bot in your channel!
 | !christmas                        | States the number of months, days and minutes left until Christmas. <img src="https://cdn.betterttv.net/emote/5f91c1486f583802e38974aa/3x" width="28" height="28">
-| !clear `AMOUNT`                   | Clear the chat x number of times. Example: "`!clear 20`". The max is 50.
+| **!clear `AMOUNT`**               | Clear the chat x number of times. Example: "`!clear 20`". The max is 50.
 | !commands                         | Brings you here. <img src="https://cdn.7tv.app/emote/60af60df84a2b8e6554d9af7/4x" width="28" height="28">
 | !coin                             | Flip a coin. Returns either: `Heads! (Yes)` or `Tails! (No)`.
 | !code `COMMAND`                   | View the source code for any command. Example: "`!code weather`".
@@ -43,7 +44,7 @@ Here is a list of all of the commands for VyprBot.
 | !following `USER`                 | Get a list of who a specific user is following on Twitch.
 | !firstlog `USER` `CHANNEL`        | Use [Leppunen's Logs](https://logs.ivr.fi/) to get the first message of any user in any channel as long as the channel is logged.
 | !fuck `USER`                      | Fuck any user you wish <img src="https://cdn.7tv.app/emote/60538d319d9e96000d244f8c/1x">
-| ***!github // !git***             | Link to my GitHub profile.
+| *!github // !git*                 | Link to my GitHub profile.
 | !gnkiss `USER` `MESSAGE`          | Kiss someone goodnight. <img src="https://cdn.7tv.app/emote/60a1babb3c3362f9a4b8b33a/1x">
 | !hare                             | An old command for the location of hare in Far Cry 5. <img src="https://cdn.7tv.app/emote/610725797c9d47b53ef7d244/1x">
 | !harrison`1-3`                    | Screenshots/Videos of user [@hhharrisonnn](https://www.twitch.tv/hhharrisonnn).
@@ -71,8 +72,8 @@ Here is a list of all of the commands for VyprBot.
 | !setbirthday `MONTH` `DAY` `YEAR` | This command sets your birthday to whatever date you specify. Required for most `!birthday` functionality. You can still check other people's birthdays without this set, they just can't check yours. Example: "`!setbirthday August 14 2005`".
 | !setlocation                      | To use the "`!time`" and "`!covid`" command, you must first set your location. Example: "`!setlocation lasalle ontario`".
 | !settwitter `YOUR_TWITTER_NAME`   | Set the account for using the `!twitter` command. Usage: `!settwitter darkvyprr`. This should be your Twitter handle without the @ sign.
-| !site // !website // !links       | Get a link to [my website](https://darkvypr.com) with all of my links. <img src="https://cdn.betterttv.net/emote/60de01428ed8b373e421c395/1x">
-| !spam `AMOUNT`                    | Spam a message x number of times. Example: "`!spam 20 test 123`". The max is 50.
+| *!site // !website // !links*     | Get a link to [my website](https://darkvypr.com) with all of my links. <img src="https://cdn.betterttv.net/emote/60de01428ed8b373e421c395/1x">
+| **!spam `AMOUNT`**                | Spam a message x number of times. Example: "`!spam 20 test 123`". The max is 50.
 | !time `@USER_OR_LOCATION`         | This will get the time for the location you previously set. If you would like to check someone else's time, you can use "`!time @USER`". Make sure to **INCLUDE THE @ SIGN!!!!!** Example: "`!time @VisioisiV`". If you would like to check the time for a specific location, you can use "`!time LOCATION_NAME`". Example: "`!time paris france`". Leave this blank to check your location.
 | !twitter                          | <img src="https://cdn.7tv.app/emote/617c8da3c632476d20d05e31/1x"> ***BEFORE USING THIS COMMAND, SEE !settwitter*** <img src="https://cdn.7tv.app/emote/617c8da3c632476d20d05e31/1x"> <br /> <br /> Puts a link to the Twitter account that you previously set.
 | !urban `PHRASE`                   | Use Urban Dictionary to look up the meaning of a word. Example: "`!urban lmfao`". There is some square brackets in the response, juts act as if they didn't exist. It's just a werid formatting bug.
