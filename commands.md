@@ -3,6 +3,7 @@ Here is a list of all of the commands for VyprBot.
 ---
 
 *ITALIC* = The command is only available for use in [my chat](https://www.twitch.tv/popout/darkvypr/chat?popout=).
+
 **BOLD** = You must be permitted in the channel to use the command. Channel broadcasters are automatically permitted.
 
 | Loyalty Commands                  | Description   
