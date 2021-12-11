@@ -1,6 +1,4 @@
-Here is a list of all of the commands for VyprBot.
-
----
+# 🤖 COMMANDS FOR VYPRBOT 🤖
 
 *ITALIC* = The command is only available for use in [my chat](https://www.twitch.tv/popout/darkvypr/chat?popout=).
 
