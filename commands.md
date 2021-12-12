@@ -21,6 +21,7 @@
 | !8ball `QUESTION`                 | Ask the 8ball a question. 
 | !adblock                          | Some adblockers that I had saved.
 | !alogs `USER` `CHANNEL`           | Get the logs of a user on any channel that is supported by [Apulxd Logs](https://logs.apulxd.ga/).
+| !birthday // !bday                | Get your current age, your date of birth, the time until your next bday and how old you'll be on that day. Birthdays must be set with the !setbirthday command.
 | !botlist                          | A list of bots that I made during the Hoss and IP grabber raids.
 | !bttvemote `EMOTE`                | Lookup a list of emotes on BTTV with a specific name. <img src="https://cdn.betterttv.net/emote/54fab7d2633595ca4c713abf/1x">
 | !chatterino                       | Get links to [Chatterino Homies](https://github.com/itzAlex/chatterino7/releases) and [Dankerino](https://github.com/Mm2PL/dankerino/releases/tag/nightly-build).
@@ -68,7 +69,7 @@
 | !request                          | Info on how to get the bot added to your chat.
 | !query `ASK_SOMETHING`            | Use the power of Wolfram Alpha's shit API to answer a question. Example: "`!query population of canada`".
 | !say                              | Repeat what the user sent. Example Input: `DarkVypr: !say hello my name is darkvypr` Example Response: `VyprBot: 👥 hello my name is darkvypr`
-| !setbirthday `MONTH` `DAY` `YEAR` | This command sets your birthday to whatever date you specify. Required for most `!birthday` functionality. You can still check other people's birthdays without this set, they just can't check yours. Example: "`!setbirthday August 14 2005`".
+| !setbirthday `M/D/YYYY OR MM/DD/YYYY` | This command sets your birthday to whatever date you specify. Required for most `!birthday` functionality. You can still check other people's birthdays without this set, they just can't check yours. Examples: "`!setbirthday 8/14/2005`", "`!setbirthday 10/16/2004`" or "`!setbirthday 9/11/1973`".
 | !setlocation                      | To use the "`!time`" and "`!covid`" command, you must first set your location. Example: "`!setlocation lasalle ontario`".
 | !settwitter `YOUR_TWITTER_NAME`   | Set the account for using the `!twitter` command. Usage: `!settwitter darkvyprr`. This should be your Twitter handle without the @ sign.
 | *!site // !website // !links*     | Get a link to [my website](https://darkvypr.com) with all of my links. <img src="https://cdn.betterttv.net/emote/60de01428ed8b373e421c395/1x">
