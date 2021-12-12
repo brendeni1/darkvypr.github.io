@@ -51,7 +51,6 @@
 | !hug `USER`                       | Give a user a hug! <img src="https://cdn.7tv.app/emote/60b3ee1eb0e6e2b3a5f9577a/1x">
 | !ip `IP_ADDRESS`                  | Look up the details of any IP address.
 | !isbot `USER`                     | Check whether the specified user is a bot or not. Example: "`!isbot Fossabot`".
-| !kaf`1-2`                         | Videos/Screenshots of user [@KafieneOW](https://www.twitch.tv/kafieneow).
 | !kanye                            | Get a random quote from Mr. West. <img src="https://cdn.7tv.app/emote/6116f94cd281ac4021e0a4ac/1x">
 | !kiss `USER`                      | Kiss a user. <img src="https://cdn.7tv.app/emote/60fa7cfb4c5d42dbbc6d9eb1/1x">
 | !list // !cutelist                | A link to the cutelist made by [@snowstormcs](https://www.twitch.tv/snowstormcs).
@@ -65,14 +64,13 @@
 | !picsbeforedisaster               | Screenshot of user [@hhharrisonnn](https://www.twitch.tv/hhharrisonnn). <img src="https://cdn.7tv.app/emote/60b146c5ad80a582b49c2d2f/1x">
 | !ping // !info // !help           | Get the latency, uptime, commands used, prefix and other info about the bot! <img src="https://cdn.7tv.app/emote/60537cea9d9e96000d244f19/1x">
 | !pings                            | A list of [@DarkVypr](https://www.twitch.tv/darkvypr)'s pings. <img src="https://cdn.7tv.app/emote/60afdf8dd2e19045eed5b8b3/1x">
-| !plop`1-10`                       | Screenshots of user [@XenoPlopQB](https://www.twitch.tv/XenoPlopQB).
 | !request                          | Info on how to get the bot added to your chat.
 | !query `ASK_SOMETHING`            | Use the power of Wolfram Alpha's shit API to answer a question. Example: "`!query population of canada`".
 | !say                              | Repeat what the user sent. Example Input: `DarkVypr: !say hello my name is darkvypr` Example Response: `VyprBot: 👥 hello my name is darkvypr`
 | !setbirthday `M/D/YYYY OR MM/DD/YYYY` | This command sets your birthday to whatever date you specify. Required for most `!birthday` functionality. You can still check other people's birthdays without this set, they just can't check yours. Examples: "`!setbirthday 8/14/2005`", "`!setbirthday 10/16/2004`" or "`!setbirthday 9/11/1973`".
 | !setlocation                      | To use the "`!time`" and "`!covid`" command, you must first set your location. Example: "`!setlocation lasalle ontario`".
 | !settwitter `YOUR_TWITTER_NAME`   | Set the account for using the `!twitter` command. Usage: `!settwitter darkvyprr`. This should be your Twitter handle without the @ sign.
-| !shiba                            | Get a random picture of a Shiba.
+| !shiba // !shibe                  | Get a random picture of a Shibe.
 | *!site // !website // !links*     | Get a link to [my website](https://darkvypr.com) with all of my links. <img src="https://cdn.betterttv.net/emote/60de01428ed8b373e421c395/1x">
 | **!spam `AMOUNT`**                | Spam a message x number of times. Example: "`!spam 20 test 123`". The max is 50.
 | !time `@USER_OR_LOCATION`         | This will get the time for the location you previously set. If you would like to check someone else's time, you can use "`!time @USER`". Make sure to **INCLUDE THE @ SIGN!!!!!** Example: "`!time @VisioisiV`". If you would like to check the time for a specific location, you can use "`!time LOCATION_NAME`". Example: "`!time paris france`". Leave this blank to check your location.
