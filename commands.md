@@ -72,6 +72,7 @@
 | !setbirthday `M/D/YYYY OR MM/DD/YYYY` | This command sets your birthday to whatever date you specify. Required for most `!birthday` functionality. You can still check other people's birthdays without this set, they just can't check yours. Examples: "`!setbirthday 8/14/2005`", "`!setbirthday 10/16/2004`" or "`!setbirthday 9/11/1973`".
 | !setlocation                      | To use the "`!time`" and "`!covid`" command, you must first set your location. Example: "`!setlocation lasalle ontario`".
 | !settwitter `YOUR_TWITTER_NAME`   | Set the account for using the `!twitter` command. Usage: `!settwitter darkvyprr`. This should be your Twitter handle without the @ sign.
+| !shiba                            | Get a random picture of a Shiba.
 | *!site // !website // !links*     | Get a link to [my website](https://darkvypr.com) with all of my links. <img src="https://cdn.betterttv.net/emote/60de01428ed8b373e421c395/1x">
 | **!spam `AMOUNT`**                | Spam a message x number of times. Example: "`!spam 20 test 123`". The max is 50.
 | !time `@USER_OR_LOCATION`         | This will get the time for the location you previously set. If you would like to check someone else's time, you can use "`!time @USER`". Make sure to **INCLUDE THE @ SIGN!!!!!** Example: "`!time @VisioisiV`". If you would like to check the time for a specific location, you can use "`!time LOCATION_NAME`". Example: "`!time paris france`". Leave this blank to check your location.
