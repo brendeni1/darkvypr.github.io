@@ -1,4 +1,4 @@
-<h1 align="center">🤖 COMMANDS FOR VYPRBOT 🤖</h1>
+<h1 align="center"> <img src="https://thumbs.gfycat.com/MeagerPlayfulCrocodile.webp" width="37.5" height="37.5"> COMMANDS FOR VYPRBOT <img src="https://thumbs.gfycat.com/MeagerPlayfulCrocodile.webp" width="37.5" height="37.5"></h1>
 
 <p align="center">*ITALIC* = The command is only available for use in [my chat](https://www.twitch.tv/popout/darkvypr/chat?popout=).</p>
 
