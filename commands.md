@@ -32,6 +32,7 @@
 | **!clear `AMOUNT`**               | Clear the chat x number of times. Example: "`!clear 20`". The max is 50.
 | !commands                         | Brings you here. <img src="https://cdn.7tv.app/emote/60af60df84a2b8e6554d9af7/4x" width="28" height="28">
 | !coin                             | Flip a coin. Returns either: `Heads! (Yes)` or `Tails! (No)`.
+| !color `COLOR_NAME`               | Change the colour of the bot. This costs 300 nammers and the list of available colors is ere.
 | !code `COMMAND`                   | View the source code for any command. Example: "`!code weather`".
 | !covid `@USER_OR_LOCATION`        | This will get the COVID stats for the location you previously set. If you would like to check someone else's COVID stats, you can use "`!covid @USER`". Make sure to **INCLUDE THE @ SIGN!!!!!** Example: "`!covid @VisioisiV`". If you would like to check the COVID stats for a specific location, you can use "`!covid LOCATION_NAME`". Example: "`!covid paris france`". Leave this blank to check your location.
 | !define `WORD_OR_PHRASE`          | Get the meaning of a word or sentence. Examples: "`!define hello`" or "`!define how are you`".
