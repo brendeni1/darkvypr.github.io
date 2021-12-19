@@ -7,12 +7,11 @@
 | Loyalty Commands                  | Description   
 | --------------------------------- | ---------------------------------------
 | !hunt                             | Hunt nammers! If you have never used this command, upon typing it, you will be auto-registered and you will be able to use the "`!hunt`" command once again. After using "`!hunt`", you will need to wait 1 hour before calling the command again.
-| !cdreset                          | Purcase a cooldown reset for the "`!hunt`" command. This costs 20 nammers and is available once every 2 hours.
 | !kill `NUMBER`                    | Kill a specific number of nammers. Example: "`!kill 20`" would remove 20 nammers from your balance.
 | !give `USER` `NUMBER`             | Give a specific amount of nammers to another user. Example: "`!give VisioisiV 20`".
 | !nammers `OPTIONAL: USER`         | Check your current balance of nammers. This supports checking users, Example: "`!nammers VisioisiV`". Leave blank to check your own balance.
 | !gamble `AMOUNT`                  | Have a 50/50 shot at winning the amount of points you bet. Example: "`!gamble 300`". This would give you 300 nammers if you win, but if you lose, you lose 300 nammers. You can also do "`!gamble all`" to gamble all of your nammers.
-
+| !shop                             | Get a list of all of the purchasable items.
 
 | Command + Variables               | Description   
 | --------------------------------- | ---------------------------------------
@@ -32,7 +31,6 @@
 | **!clear `AMOUNT`**               | Clear the chat x number of times. Example: "`!clear 20`". The max is 50.
 | !commands                         | Brings you here. <img src="https://cdn.7tv.app/emote/60af60df84a2b8e6554d9af7/4x" width="28" height="28">
 | !coin                             | Flip a coin. Returns either: `Heads! (Yes)` or `Tails! (No)`.
-| !color `COLOR_NAME`               | Change the colour of the bot. This costs 300 nammers and the list of available colors is [here](https://i.darkvypr.com/colours.png).
 | !code `COMMAND`                   | View the source code for any command. Example: "`!code weather`".
 | !covid `@USER_OR_LOCATION`        | This will get the COVID stats for the location you previously set. If you would like to check someone else's COVID stats, you can use "`!covid @USER`". Make sure to **INCLUDE THE @ SIGN!!!!!** Example: "`!covid @VisioisiV`". If you would like to check the COVID stats for a specific location, you can use "`!covid LOCATION_NAME`". Example: "`!covid paris france`". Leave this blank to check your location.
 | !define `WORD_OR_PHRASE`          | Get the meaning of a word or sentence. Examples: "`!define hello`" or "`!define how are you`".
