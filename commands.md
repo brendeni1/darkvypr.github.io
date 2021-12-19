@@ -1,8 +1,8 @@
-# 🤖 COMMANDS FOR VYPRBOT 🤖
+<h1 align="center">🤖 COMMANDS FOR VYPRBOT 🤖</h1>
 
-*ITALIC* = The command is only available for use in [my chat](https://www.twitch.tv/popout/darkvypr/chat?popout=).
+<p align="center">*ITALIC* = The command is only available for use in [my chat](https://www.twitch.tv/popout/darkvypr/chat?popout=).</p>
 
-**BOLD** = You must be permitted in the channel to use the command. Channel broadcasters are automatically permitted.
+<p align="center">**BOLD** = You must be permitted in the channel to use the command. Channel broadcasters are automatically permitted.</p>
 
 | Loyalty Commands                  | Description   
 | --------------------------------- | ---------------------------------------
