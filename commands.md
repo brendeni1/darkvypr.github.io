@@ -13,6 +13,13 @@
 | vb gamble `AMOUNT`                  | Have a 50/50 shot at winning the amount of points you bet. Example: "`!gamble 300`". This would give you 300 nammers if you win, but if you lose, you lose 300 nammers. You can also do "`!gamble all`" to gamble all of your nammers.
 | vb shop                             | Get a list of all of the purchasable items.
 
+| Set Commands                        | Description   
+| ---------------------------------   | ---------------------------------------
+| vb setbirthday `M/D/YYYY OR MM/DD/YYYY` | This command sets your birthday to whatever date you specify. Required for most `!birthday` functionality. You can still check other people's birthdays without this set, they just can't check yours. Examples: "`!setbirthday 8/14/2005`", "`!setbirthday 10/16/2004`" or "`!setbirthday 9/11/1973`".
+| vb setlocation                      | To use the "`!time`" and "`!covid`" command, you must first set your location. Example: "`!setlocation lasalle ontario`".
+| vb setstatus `PHRASE_OR_CLEAR/NONE` | This command sets your status to whatever you specify. Required for most `!status` functionality. You can still check other people's status without this set, they just can't check yours. To clear your status, use: "`!setstatus clear`" or "`!setstatus none`". Example: "`!setstatus learning javascript`".
+| vb settwitter `YOUR_TWITTER_NAME`   | Set the account for using the `!twitter` command. Usage: `!settwitter darkvyprr`. This should be your Twitter handle without the @ sign.
+
 | Suggestions                       | Description   
 | --------------------------------- | ---------------------------------------
 | vb suggest `SUGGESTION`           | Suggest a feature that you would like. You can also use this command to ask for the bot to be added to your channel.
@@ -76,10 +83,6 @@
 | vb request                          | Info on how to get the bot added to your chat.
 | vb query `ASK_SOMETHING`            | Use the power of Wolfram Alpha's shit API to answer a question. Example: "`!query population of canada`".
 | vb say                              | Repeat what the user sent. Example Input: `DarkVypr: !say hello my name is darkvypr` Example Response: `VyprBot: 👥 hello my name is darkvypr`
-| vb setbirthday `M/D/YYYY OR MM/DD/YYYY` | This command sets your birthday to whatever date you specify. Required for most `!birthday` functionality. You can still check other people's birthdays without this set, they just can't check yours. Examples: "`!setbirthday 8/14/2005`", "`!setbirthday 10/16/2004`" or "`!setbirthday 9/11/1973`".
-| vb setlocation                      | To use the "`!time`" and "`!covid`" command, you must first set your location. Example: "`!setlocation lasalle ontario`".
-| vb setstatus `PHRASE_OR_CLEAR/NONE` | This command sets your status to whatever you specify. Required for most `!status` functionality. You can still check other people's status without this set, they just can't check yours. To clear your status, use: "`!setstatus clear`" or "`!setstatus none`". Example: "`!setstatus learning javascript`".
-| vb settwitter `YOUR_TWITTER_NAME`   | Set the account for using the `!twitter` command. Usage: `!settwitter darkvyprr`. This should be your Twitter handle without the @ sign.
 | vb shiba // vb shibe                  | Get a random picture of a Shibe.
 | *vb site // vb website // vb links*     | Get a link to [my website](https://darkvypr.com) with all of my links. <img src="https://cdn.betterttv.net/emote/60de01428ed8b373e421c395/1x">
 | **vb spam `AMOUNT`**                | Spam a message x number of times. Example: "`!spam 20 test 123`". The max is 50.
