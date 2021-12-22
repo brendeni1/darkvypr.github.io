@@ -1,8 +1,8 @@
 <h1 align="center"> <img src="https://thumbs.gfycat.com/MeagerPlayfulCrocodile.webp" width="37.5" height="37.5"> COMMANDS FOR VYPRBOT <img src="https://thumbs.gfycat.com/MeagerPlayfulCrocodile.webp" width="37.5" height="37.5"></h1>
 
-<p align="center">*ITALIC* = The command is only available for use in my chat.</p>
+<p align="center"><i>ITALIC</i> = The command is only available for use in my chat.</p>
 
-<p align="center">**BOLD** = You must be permitted in the channel to use the command. Channel broadcasters are automatically permitted.</p>
+<p align="center"><b>BOLD</b> = You must be permitted in the channel to use the command. Channel broadcasters are automatically permitted.</p>
 
 | Loyalty Commands                  | Description   
 | --------------------------------- | ---------------------------------------
