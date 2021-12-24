@@ -4,6 +4,9 @@
 
 <p align="center"><b>BOLD</b> = You must be permitted in the channel to use the command. Channel broadcasters are automatically permitted.</p>
 
+| Username Changes                  | If you would like to have all of your data moved over to a new name, use "vb suggest" and I will get to it.
+| --------------------------------- | ---------------------------------------
+
 | Loyalty Commands                  | Description   
 | --------------------------------- | ---------------------------------------
 | vb hunt                             | Hunt nammers! If you have never used this command, upon typing it, you will be auto-registered and you will be able to use the "`!hunt`" command once again. After using "`!hunt`", you will need to wait 1 hour before calling the command again.
