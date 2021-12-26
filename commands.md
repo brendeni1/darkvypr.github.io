@@ -4,11 +4,11 @@
 
 <p align="center"><b>BOLD</b> = You must be permitted in the channel to use the command. Channel broadcasters are automatically permitted.</p>
 
-| Username Changes                  | If you would like to have all of your data moved over to a new name, use "vb suggest" and I will get to it.
-| --------------------------------- | ---------------------------------------
+| Username Changes                    | If you would like to have all of your data moved over to a new name, use "vb suggest" and I will get to it.
+| ---------------------------------   | ---------------------------------------
 
-| Loyalty Commands                  | Description   
-| --------------------------------- | ---------------------------------------
+| Loyalty Commands                    | Description   
+| ---------------------------------   | ---------------------------------------
 | vb hunt                             | Hunt nammers! If you have never used this command, upon typing it, you will be auto-registered and you will be able to use the "`!hunt`" command once again. After using "`!hunt`", you will need to wait 1 hour before calling the command again.
 | vb kill `NUMBER`                    | Kill a specific number of nammers. Example: "`!kill 20`" would remove 20 nammers from your balance.
 | vb give `USER` `NUMBER`             | Give a specific amount of nammers to another user. Example: "`!give VisioisiV 20`".
@@ -23,24 +23,25 @@
 | vb setstatus `PHRASE_OR_CLEAR/NONE` | This command sets your status to whatever you specify. Required for most `!status` functionality. You can still check other people's status without this set, they just can't check yours. To clear your status, use: "`!setstatus clear`" or "`!setstatus none`". Example: "`!setstatus learning javascript`".
 | vb settwitter `YOUR_TWITTER_NAME`   | Set the account for using the `!twitter` command. Usage: `!settwitter darkvyprr`. This should be your Twitter handle without the @ sign.
 
-| Suggestions                       | Description   
-| --------------------------------- | ---------------------------------------
-| vb suggest `SUGGESTION`           | Suggest a feature that you would like. You can also use this command to ask for the bot to be added to your channel.
-| vb unset `ID_OF_SUGGESTION`       | Unset a suggestion that you previously sent. If you dont know the ID, ask me. Please try to remember it though.
+| Suggestions                         | Description   
+| ---------------------------------   | ---------------------------------------
+| vb suggest `SUGGESTION`             | Suggest a feature that you would like. You can also use this command to ask for the bot to be added to your channel.
+| vb unset `ID_OF_SUGGESTION`         | Unset a suggestion that you previously sent. If you dont know the ID, ask me. Please try to remember it though.
 
-| Permissions                       | Description   
-| --------------------------------- | ---------------------------------------
-| vb permit `USER`                  | Permit a user to use commands that can only be used by being permitted. This command can only be executed by the broadcaster of said channel or by me globally.
-| vb unpermit `USER`                | Unpermit a user from using commands that can only be used by being permitted. This command can only be executed by the broadcaster of said channel or by me globally.
+| Permissions                         | Description   
+| ---------------------------------   | ---------------------------------------
+| vb permit `USER`                    | Permit a user to use commands that can only be used by being permitted. This command can only be executed by the broadcaster of said channel or by me globally.
+| vb unpermit `USER`                  | Unpermit a user from using commands that can only be used by being permitted. This command can only be executed by the broadcaster of said channel or by me globally.
 
-| Command + Variables               | Description   
-| --------------------------------- | ---------------------------------------
+| Command + Variables                 | Description   
+| ---------------------------------   | ---------------------------------------
+| vb 2020 // vb newyears              | Count down the time until the new year!
 | vb 7tvemote `EMOTE`                 | Find an emote on 7tv by the name. <img src="https://cdn.7tv.app/emote/604e825e688b360014d83d7e/1x">
 | vb 7tvuser `NAME`                   | Lookup the profile of a user on 7TV. <img src="https://cdn.7tv.app/emote/604e825e688b360014d83d7e/1x">
 | vb 8ball `QUESTION`                 | Ask the 8ball a question. 
 | vb adblock                          | Some adblockers that I had saved.
 | vb alogs `USER` `CHANNEL`           | Get the logs of a user on any channel that is supported by [Apulxd Logs](https://logs.apulxd.ga/).
-| vb birthday // vb bday                | Get your current age, your date of birth, the time until your next bday and how old you'll be on that day. Birthdays must be set with the !setbirthday command.
+| vb birthday // vb bday              | Get your current age, your date of birth, the time until your next bday and how old you'll be on that day. Birthdays must be set with the !setbirthday command.
 | vb botlist                          | A list of bots that I made during the Hoss and IP grabber raids.
 | vb bttvemote `EMOTE`                | Lookup a list of emotes on BTTV with a specific name. <img src="https://cdn.betterttv.net/emote/54fab7d2633595ca4c713abf/1x">
 | vb chatterino                       | Get links to [Chatterino Homies](https://github.com/itzAlex/chatterino7/releases) and [Dankerino](https://github.com/Mm2PL/dankerino/releases/tag/nightly-build).
@@ -63,7 +64,7 @@
 | vb following `USER`                 | Get a list of who a specific user is following on Twitch.
 | vb firstlog `USER` `CHANNEL`        | Use [Leppunen's Logs](https://logs.ivr.fi/) to get the first message of any user in any channel as long as the channel is logged.
 | vb fuck `USER`                      | Fuck any user you wish <img src="https://cdn.7tv.app/emote/60538d319d9e96000d244f8c/1x">
-| vb vb github // vb git*                 | Link to my GitHub profile.
+| vb vb github // vb git*             | Link to my GitHub profile.
 | vb gnkiss `USER` `MESSAGE`          | Kiss someone goodnight. <img src="https://cdn.7tv.app/emote/60a1babb3c3362f9a4b8b33a/1x">
 | vb hare                             | An old command for the location of hare in Far Cry 5. <img src="https://cdn.7tv.app/emote/610725797c9d47b53ef7d244/1x">
 | vb harrison`1-3`                    | Screenshots/Videos of user [@hhharrisonnn](https://www.twitch.tv/hhharrisonnn).
@@ -72,7 +73,7 @@
 | vb isbot `USER`                     | Check whether the specified user is a bot or not. Example: "`!isbot Fossabot`".
 | vb kanye                            | Get a random quote from Mr. West. <img src="https://cdn.7tv.app/emote/6116f94cd281ac4021e0a4ac/1x">
 | vb kiss `USER`                      | Kiss a user. <img src="https://cdn.7tv.app/emote/60fa7cfb4c5d42dbbc6d9eb1/1x">
-| vb list // vb cutelist                | A link to the cutelist made by [@snowstormcs](https://www.twitch.tv/snowstormcs).
+| vb list // vb cutelist              | A link to the cutelist made by [@snowstormcs](https://www.twitch.tv/snowstormcs).
 | vb logs `USER` `CHANNEL`            | Get the logs of a user on any channel that is supported by [Leppunen's Logs](https://logs.ivr.fi/).
 | vb minglee                          | <img src="https://static-cdn.jtvnw.net/emoticons/v2/68856/default/dark/1.0"> <img src="https://pajbot.com/static/emoji-v2/img/twitter/64/1f1e8-1f1f3.png" width="22" height="22"> The sun in the sky is red. In our hearts is the sun Mao Zedong.
 | vb modlookup `USER`                 | View a rough list of people that a user mods for. (Not 100% accurate)
@@ -81,13 +82,13 @@
 | vb part                             | If you would like VyprBot to leave your chat, use this command. <img src="https://cdn.7tv.app/emote/61a0f0cfe9684edbbc36e976/1x">
 | vb pfp `USER`                       | Get a direct link to the profile picture of any user. Example: "`!pfp darkvypr`".
 | vb picsbeforedisaster               | Screenshot of user [@hhharrisonnn](https://www.twitch.tv/hhharrisonnn). <img src="https://cdn.7tv.app/emote/60b146c5ad80a582b49c2d2f/1x">
-| vb ping // vb info // vb help           | Get the latency, uptime, commands used, prefix and other info about the bot! <img src="https://cdn.7tv.app/emote/60537cea9d9e96000d244f19/1x">
+| vb ping // vb info // vb help       | Get the latency, uptime, commands used, prefix and other info about the bot! <img src="https://cdn.7tv.app/emote/60537cea9d9e96000d244f19/1x">
 | vb pings                            | A list of [@DarkVypr](https://www.twitch.tv/darkvypr)'s pings. <img src="https://cdn.7tv.app/emote/60afdf8dd2e19045eed5b8b3/1x">
 | vb request                          | Info on how to get the bot added to your chat.
 | vb query `ASK_SOMETHING`            | Use the power of Wolfram Alpha's shit API to answer a question. Example: "`!query population of canada`".
 | vb say                              | Repeat what the user sent. Example Input: `DarkVypr: !say hello my name is darkvypr` Example Response: `VyprBot: 👥 hello my name is darkvypr`
-| vb shiba // vb shibe                  | Get a random picture of a Shibe.
-| *vb site // vb website // vb links*     | Get a link to [my website](https://darkvypr.com) with all of my links. <img src="https://cdn.betterttv.net/emote/60de01428ed8b373e421c395/1x">
+| vb shiba // vb shibe                | Get a random picture of a Shibe.
+| *vb site // vb website // vb links* | Get a link to [my website](https://darkvypr.com) with all of my links. <img src="https://cdn.betterttv.net/emote/60de01428ed8b373e421c395/1x">
 | **vb spam `AMOUNT`**                | Spam a message x number of times. Example: "`!spam 20 test 123`". The max is 50.
 | vb status `OPTIONAL: USER`          | This command returns the status that you previously set. To check other users status's, use: "`!status USER_OR_@USER`".
 | vb time `@USER_OR_LOCATION`         | This will get the time for the location you previously set. If you would like to check someone else's time, you can use "`!time @USER`". Make sure to **INCLUDE THE @ SIGN!!!!!** Example: "`!time @VisioisiV`". If you would like to check the time for a specific location, you can use "`!time LOCATION_NAME`". Example: "`!time paris france`". Leave this blank to check your location.
