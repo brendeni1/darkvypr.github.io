@@ -70,6 +70,7 @@
 | vb hare                             | An old command for the location of hare in Far Cry 5. <img src="https://cdn.7tv.app/emote/610725797c9d47b53ef7d244/1x">
 | vb harrison`1-3`                    | Screenshots/Videos of user [@hhharrisonnn](https://www.twitch.tv/hhharrisonnn).
 | vb hug `USER`                       | Give a user a hug! <img src="https://cdn.7tv.app/emote/60b3ee1eb0e6e2b3a5f9577a/1x">
+| vb info `OPTIONAL: USER`            | Look up and get the details of any user on Twitch. Leave blank for your account's details.
 | vb ip `IP_ADDRESS`                  | Look up the details of any IP address.
 | vb kanye                            | Get a random quote from Mr. West. <img src="https://cdn.7tv.app/emote/6116f94cd281ac4021e0a4ac/1x">
 | vb kiss `USER`                      | Kiss a user. <img src="https://cdn.7tv.app/emote/60fa7cfb4c5d42dbbc6d9eb1/1x">
@@ -82,7 +83,7 @@
 | vb part                             | If you would like VyprBot to leave your chat, use this command. <img src="https://cdn.7tv.app/emote/61a0f0cfe9684edbbc36e976/1x">
 | vb pfp `USER`                       | Get a direct link to the profile picture of any user. Example: "`vb pfp darkvypr`".
 | vb picsbeforedisaster               | Screenshot of user [@hhharrisonnn](https://www.twitch.tv/hhharrisonnn). <img src="https://cdn.7tv.app/emote/60b146c5ad80a582b49c2d2f/1x">
-| vb ping // vb info // vb help       | Get the latency, uptime, commands used, prefix and other info about the bot! <img src="https://cdn.7tv.app/emote/60537cea9d9e96000d244f19/1x">
+| vb ping // vb help                  | Get the latency, uptime, commands used, prefix and other info about the bot! <img src="https://cdn.7tv.app/emote/60537cea9d9e96000d244f19/1x">
 | vb pings                            | A list of [@DarkVypr](https://www.twitch.tv/darkvypr)'s pings. <img src="https://cdn.7tv.app/emote/60afdf8dd2e19045eed5b8b3/1x">
 | vb request                          | Info on how to get the bot added to your chat.
 | vb query `ASK_SOMETHING`            | Use the power of Wolfram Alpha's shit API to answer a question. Example: "`vb query population of canada`".
