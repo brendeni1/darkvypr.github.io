@@ -30,8 +30,7 @@
 
 | Permissions                         | Description   
 | ---------------------------------   | ---------------------------------------
-| vb permit `USER`                    | Permit a user to use commands that can only be used by being permitted. This command can only be executed by the broadcaster of said channel or by me globally.
-| vb unpermit `USER`                  | Unpermit a user from using commands that can only be used by being permitted. This command can only be executed by the broadcaster of said channel or by me globally.
+| vb permit `ACTION` `USER`           | Permit a user to use commands that can only be used by being permitted. This command can only be executed by the broadcaster of said channel, a vyprbot admin or by me globally. Example: "`vb permit add darkvypr`" would add me as a permitted user, "`vb permit delete darkvypr`" would remove me as a permitted user, and "`vb permit check darkvypr`" would check if I am permitted or not.
 
 | Command + Variables                 | Description   
 | ---------------------------------   | ---------------------------------------
