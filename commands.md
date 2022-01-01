@@ -75,6 +75,7 @@
 | vb kiss `USER`                      | Kiss a user. <img src="https://cdn.7tv.app/emote/60fa7cfb4c5d42dbbc6d9eb1/1x">
 | vb list // vb cutelist              | A link to the cutelist made by [@snowstormcs](https://www.twitch.tv/snowstormcs).
 | vb logs `USER` `CHANNEL`            | Get the logs of a user on any channel that is supported by [Leppunen's Logs](https://logs.ivr.fi/).
+| vb math `EQUATION`                  | Get the answer to a provided equation.
 | vb minglee                          | <img src="https://static-cdn.jtvnw.net/emoticons/v2/68856/default/dark/1.0"> <img src="https://pajbot.com/static/emoji-v2/img/twitter/64/1f1e8-1f1f3.png" width="22" height="22"> The sun in the sky is red. In our hearts is the sun Mao Zedong.
 | vb modlookup `USER`                 | View a rough list of people that a user mods for. (Not 100% accurate)
 | vb nam                              | <img src="https://cdn.7tv.app/emote/60b32c4cae6bde02439f2e4e/1x"> <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e88cc46144b84732929c75512e8a2d3d/default/dark/1.0"> <img src="https://cdn.7tv.app/emote/60b32c4cae6bde02439f2e4e/1x">
