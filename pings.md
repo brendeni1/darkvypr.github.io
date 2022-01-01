@@ -108,7 +108,7 @@ brightdiaper
 
 `\b(bright|dark)vip(e|u|o)r\b`
 
-`\b(b|v)o?ip(o*|e|u)r\b`
+`\b(b|v)o?ip(o*|u)r\b`
 
 `biper`
 
@@ -118,13 +118,11 @@ brightdiaper
 
 `darkv`
 
-`dark\s?diaper`
-
 `voiper`
 
-`\b(dark|bright)?\s?dype?r\b`
+`\b(dark|bright)?\s?dype?(r|a)\b`
 
-`booper`
+`\b(b|v)ooper\b`
 
 `(dark|bright)\s?diaper`
 
