@@ -5,7 +5,7 @@
 <p align="center"><b>BOLD</b> = You must be permitted in the channel to use the command. Channel broadcasters are automatically permitted.</p>
 
 | Username Changes                    | If you would like to have all of your data moved over to a new name, use "vb suggest" and I will get to it.
-| ---------------------------------   | ---------------------------------------
+| ---------------------------------   | -----------------------------------------------------------------------------------------------------------
 
 | Loyalty Commands                    | Description   
 | ---------------------------------   | ---------------------------------------
