@@ -16,12 +16,9 @@
 | vb gamble `AMOUNT`                  | Have a 50/50 shot at winning the amount of points you bet. Example: "`vb gamble 300`". This would give you 300 nammers if you win, but if you lose, you lose 300 nammers. You can also do "`vb gamble all`" to gamble all of your nammers.
 | vb shop                             | Get a list of all of the purchasable items.
 
-| Set Commands                        | Description   
+| Set Command                        | Description   
 | ---------------------------------   | ---------------------------------------
-| vb setbirthday `M/D/YYYY OR MM/DD/YYYY` | This command sets your birthday to whatever date you specify. Required for most `vb birthday` functionality. You can still check other people's birthdays without this set, they just can't check yours. Examples: "`vb setbirthday 8/14/2005`", "`vb setbirthday 10/16/2004`" or "`vb setbirthday 9/11/1973`".
-| vb setlocation                      | To use the "`vb time`" and "`vb covid`" command, you must first set your location. Example: "`vb setlocation lasalle ontario`".
-| vb setstatus `PHRASE_OR_CLEAR/NONE` | This command sets your status to whatever you specify. Required for most `vb status` functionality. You can still check other people's status without this set, they just can't check yours. To clear your status, use: "`vb setstatus clear`" or "`vb setstatus none`". Example: "`vb setstatus learning javascript`".
-| vb settwitter `YOUR_TWITTER_NAME`   | Set the account for using the `vb twitter` command. Usage: `vb settwitter darkvyprr`. This should be your Twitter handle without the @ sign.
+| vb set `birthday|bday|twitter|location`| Set various values to use commands. Options: Location, Twitter account or Birthday. Examples: "vb set twitter darkvyprr", "vb set birthday 8/14/2005 (mm/dd/yyyy)" or "vb set location lasalle ontario ({city} {state, province or country})".
 
 | Suggestions                         | Description   
 | ---------------------------------   | ---------------------------------------
