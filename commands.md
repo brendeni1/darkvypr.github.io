@@ -4,8 +4,9 @@
 
 <p align="center"><b>BOLD</b> = You must be permitted in the channel to use the command. Channel broadcasters are automatically permitted.</p>
 
-| Username Changes                    | If you would like to have all of your data moved over to a new name, use "vb suggest" and I will get to it.
+| Username Changes                    | Description
 | ---------------------------------   | -----------------------------------------------------------------------------------------------------------
+| What happens if I change my name?   | If you would like to have all of your data moved over to a new name, use "vb suggest" and I will get to it.
 
 | Loyalty Commands                    | Description   
 | ---------------------------------   | ---------------------------------------
@@ -16,7 +17,7 @@
 | vb gamble `AMOUNT`                  | Have a 50/50 shot at winning the amount of points you bet. Example: "`vb gamble 300`". This would give you 300 nammers if you win, but if you lose, you lose 300 nammers. You can also do "`vb gamble all`" to gamble all of your nammers.
 | vb shop                             | Get a list of all of the purchasable items.
 
-| Set Command                        | Description   
+| Set Command                         | Description   
 | ---------------------------------   | ---------------------------------------
 | vb set `birthday|bday|twitter|location`| Set various values to use commands. Options: Location, Twitter account or Birthday. Examples: "vb set twitter darkvyprr", "vb set birthday 8/14/2005 (mm/dd/yyyy)" or "vb set location lasalle ontario ({city} {state, province or country})".
 
