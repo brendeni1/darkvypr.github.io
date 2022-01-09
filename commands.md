@@ -36,6 +36,7 @@
 | vb 7tvemote `EMOTE`                 | Find an emote on 7tv by the name. <img src="https://cdn.7tv.app/emote/604e825e688b360014d83d7e/1x">
 | vb 7tvuser `NAME`                   | Lookup the profile of a user on 7TV. <img src="https://cdn.7tv.app/emote/604e825e688b360014d83d7e/1x">
 | vb 8ball `QUESTION`                 | Ask the 8ball a question. 
+| vb acctage // vb accountage `OPTIONAL: USER` | Get info on when an account was made. Check a user by assing their name to the end of the command. Examples: "`vb acctage`" "`vb accountage @XenoPlopQB`".
 | vb adblock                          | Some adblockers that I had saved.
 | vb alogs `USER` `CHANNEL`           | Get the logs of a user on any channel that is supported by [Apulxd Logs](https://logs.apulxd.ga/).
 | vb birthday // vb bday              | Get your current age, your date of birth, the time until your next bday and how old you'll be on that day. Birthdays must be set with the vb setbirthday command.
