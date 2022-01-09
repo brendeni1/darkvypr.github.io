@@ -24,7 +24,8 @@
 | Suggestions                         | Description   
 | ---------------------------------   | ---------------------------------------
 | vb suggest `SUGGESTION`             | Suggest a feature that you would like. You can also use this command to ask for the bot to be added to your channel.
-| vb unset `ID_OF_SUGGESTION`         | Unset a suggestion that you previously sent. If you dont know the ID, ask me. Please try to remember it though.
+| vb check `ID_OF_SUGGESTION`         | Check the suggestion of a status.
+| vb unset `ID_OF_SUGGESTION`         | Unset a suggestion that you previously sent. If you dont know the ID, check your Twitch DM's with VyprBot.
 
 | Permissions                         | Description   
 | ---------------------------------   | ---------------------------------------
