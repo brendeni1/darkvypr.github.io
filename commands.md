@@ -53,7 +53,7 @@
 | vb catfact                          | Get a random fact about cats. <img src="https://cdn.7tv.app/emote/60b2b63c019c994a3a93f66c/1x">
 | vb channels                         | List the channels that [@VyprBot](https://www.twitch.tv/VyprBot) is in and how to get the bot in your channel!
 | vb christmas                        | States the number of months, days and minutes left until Christmas. <img src="https://cdn.betterttv.net/emote/5f91c1486f583802e38974aa/3x" width="28" height="28">
-| **vb clear `AMOUNT`**               | Clear the chat x number of times. Example: "`vb clear 20`". The max is 50.
+| **vb clear `AMOUNT`**               | Clear the chat x number of times. Example: "`vb clear 20`". The max is 100.
 | vb commands                         | Brings you here. <img src="https://cdn.7tv.app/emote/60af60df84a2b8e6554d9af7/4x" width="28" height="28">
 | vb coin                             | Flip a coin. Returns either: `Heads! (Yes)` or `Tails! (No)`.
 | vb code `COMMAND`                   | View the source code for any command. Example: "`vb code weather`".
@@ -97,7 +97,7 @@
 | vb say                              | Repeat what the user sent. Example Input: `DarkVypr: vb say hello my name is darkvypr` Example Response: `VyprBot: 👥 hello my name is darkvypr`
 | vb shiba // vb shibe                | Get a random picture of a Shibe.
 | *vb site // vb website // vb links* | Get a link to [my website](https://darkvypr.com) with all of my links. <img src="https://cdn.betterttv.net/emote/60de01428ed8b373e421c395/1x">
-| **vb spam `AMOUNT`**                | Spam a message x number of times. Example: "`vb spam 20 test 123`". The max is 50.
+| **vb spam `AMOUNT`**                | Spam a message x number of times. Example: "`vb spam 20 test 123`". The max is 80.
 | vb status `OPTIONAL: USER`          | This command returns the status that you previously set. To check other users status's, use: "`vb status USER_OR_@USER`".
 | vb subage // vb sa `USER` `CHANNEL` | Check a user's subscription status to a channel.
 | vb time `@USER_OR_LOCATION`         | This will get the time for the location you previously set. If you would like to check someone else's time, you can use "`vb time @USER`". Make sure to **INCLUDE THE @ SIGN!!!!!** Example: "`vb time @VisioisiV`". If you would like to check the time for a specific location, you can use "`vb time LOCATION_NAME`". Example: "`vb time paris france`". Leave this blank to check your location.
