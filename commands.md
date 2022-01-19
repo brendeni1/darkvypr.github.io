@@ -92,7 +92,8 @@
 | vb ping // vb help                  | Get the latency, uptime, commands used, prefix and other info about the bot! <img src="https://cdn.7tv.app/emote/60537cea9d9e96000d244f19/1x">
 | vb pings                            | A list of [@DarkVypr](https://www.twitch.tv/darkvypr)'s pings. <img src="https://cdn.7tv.app/emote/60afdf8dd2e19045eed5b8b3/1x">
 | vb request                          | Info on how to get the bot added to your chat.
-| vb query `ASK_SOMETHING`            | Use the power of Wolfram Alpha's shit API to answer a question. Example: "`vb query population of canada`".
+| vb qr // vb qrcode                  | Read or create a QR code. Examples: "`vb qr create hello this is a test`" "`vb qrcode read https://i.darkvypr.com/qrcode.png`".
+| vb query `QUESTION`                 | Use the power of Wolfram Alpha's API to answer a question. Example: "`vb query population of canada`".
 | vb rpfp `OPTIONAL: user:true`       | Get a random user's profile picture from chat. Use the flag: "user:true" to include the user that the profile picture is from.
 | vb say                              | Repeat what the user sent. Example Input: `DarkVypr: vb say hello my name is darkvypr` Example Response: `VyprBot: 👥 hello my name is darkvypr`
 | vb shiba // vb shibe                | Get a random picture of a Shibe.
