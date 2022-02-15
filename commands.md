@@ -99,6 +99,7 @@
 | vb shiba // vb shibe                | Get a random picture of a Shibe.
 | *vb site // vb website // vb links* | Get a link to [my website](https://darkvypr.com) with all of my links. <img src="https://cdn.betterttv.net/emote/60de01428ed8b373e421c395/1x">
 | **vb spam `AMOUNT`**                | Spam a message x number of times. Example: "`vb spam 20 test 123`". The max is 80.
+| vb song // vb music `SONG_NAME` `OPTIONAL: INDEX`| Search song details. Basic example: "`vb song off the grid`" or "`vb music late at night`". If the result you get isn't what you are looking for, append index:`NUMBER_HERE` to go through all of the results. For example: "`vb song late at night`" returns late at night by Roddy Rich, whereas "`vb song late at night index:1`" returns Late At Night by George Benson. The songs are ordered by popularity.
 | vb status `OPTIONAL: USER`          | This command returns the status that you previously set. To check other users status's, use: "`vb status USER_OR_@USER`".
 | vb subage // vb sa `USER` `CHANNEL` | Check a user's subscription status to a channel.
 | vb time `@USER_OR_LOCATION`         | This will get the time for the location you previously set. If you would like to check someone else's time, you can use "`vb time @USER`". Make sure to **INCLUDE THE @ SIGN!!!!!** Example: "`vb time @VisioisiV`". If you would like to check the time for a specific location, you can use "`vb time LOCATION_NAME`". Example: "`vb time paris france`". Leave this blank to check your location.
