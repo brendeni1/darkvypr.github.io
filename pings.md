@@ -80,7 +80,7 @@ darkv
 
 # REGEX STRINGS
 
-[REGEX101 LINK](https://regex101.com/r/WtN0Sp/13)
+[REGEX101 LINK](https://regex101.com/r/WtN0Sp/14)
 
 ---
 
