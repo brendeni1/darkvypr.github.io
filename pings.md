@@ -50,6 +50,12 @@ bypa
 
 vypa
 
+wypa
+
+wypr
+
+wyper
+
 vpyr
 
 bipor
@@ -78,7 +84,7 @@ darkv
 
 ---
 
-`\b(v|b|w)ypa(')?(s)?\b`
+`\b(v|b|w)yp(r|a|er)(')?(s)?\b`
 
 `(bright|dark)?(v|b)(y)p(e|u|o)?r`
 
