@@ -66,27 +66,7 @@ vooper
 
 darkv
 
-275711366
-
----
-
-<b>@HotTemperz @Lilbint</b> <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_70c9971ecaed4e45980bf32472775c4a/default/dark/3.0" width="28" height="28" />
-
-dypr
-
-dyper
-
-darkdypr
-
-darkdyper
-
-darkdiaper
-
-brightdypr
-
-brightdyper
-
-brightdiaper
+275711366 --> my userid
 
 ---
 
@@ -96,6 +76,8 @@ brightdiaper
 
 ---
 
+`\b(v|b|w)ypa(')?(s)?\b`
+
 `(bright|dark)?(v|b)(y)p(e|u|o)?r`
 
 `\b(v|b)ypa(')?(s)?\b`
@@ -104,7 +86,7 @@ brightdiaper
 
 `UnShadowBanDarkVyprTwitch`
 
-`275711366`
+`\b275711366\b`
 
 `\b(bright|dark)vip(e|u|o)r\b`
 
