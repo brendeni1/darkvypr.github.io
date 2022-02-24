@@ -1,3 +1,5 @@
+<h1 align="center"><img src="https://pajbot.com/static/emoji-v2/img/twitter/64/1f514.png" width="40" height="40"> Some Ping Examples <img src="https://pajbot.com/static/emoji-v2/img/twitter/64/1f514.png" width="40" height="40"> </h1>
+
 darkvypr
 
 darkvyper
