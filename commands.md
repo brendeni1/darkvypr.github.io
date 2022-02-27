@@ -104,6 +104,7 @@
 | vb subage // vb sa `USER` `CHANNEL` | Check a user's subscription status to a channel.
 | vb time `@USER_OR_LOCATION`         | This will get the time for the location you previously set. If you would like to check someone else's time, you can use "`vb time @USER`". Make sure to **INCLUDE THE @ SIGN!!!!!** Example: "`vb time @VisioisiV`". If you would like to check the time for a specific location, you can use "`vb time LOCATION_NAME`". Example: "`vb time paris france`". Leave this blank to check your location.
 | vb translate `OPTIONAL: FROM:LANG AND/OR TO:LANG`| Translate text from language to language. Example: "`vb translate Come stai? from:italian to:french`"
+| vb trump                            | Get a random Donald Trump quote including the time and year.
 | vb twitter `OPTIONAL: @USER_OR_ACCOUNT`| Get the latest Tweet off of an account. Leave blank to check your Twitter account, add a @ and a user to check someone else's Twitter if they have it set, and check any account by leaving out the @. Examples: `vb twitter`, `vb twitter @visioisiv` checks the user VisioisiV's twitter if they have it set on VyprBot, and `vb twitter xqc` would check xQcOW's Twitter account.
 | vb uid `OPTIONAL: USER`             | Get the UserID of a Twitch account. Will show if the user is banned or not.
 | vb urban `PHRASE`                   | Use Urban Dictionary to look up the meaning of a word. Example: "`vb urban lmfao`". There is some square brackets in the response, juts act as if they didn't exist. It's just a werid formatting bug.
