@@ -69,7 +69,7 @@
 | vb following `USER`                 | Get a list of who a specific user is following on Twitch.
 | vb firstlog `USER` `CHANNEL`        | Use [Leppunen's Logs](https://logs.ivr.fi/) to get the first message of any user in any channel as long as the channel is logged.
 | vb fuck `USER`                      | Fuck any user you wish <img src="https://cdn.7tv.app/emote/60538d319d9e96000d244f8c/1x">
-| vb vb github // vb git*             | Link to my GitHub profile.
+| vb game // vb steam `CHANNEL: OR GAME`| Lookup a game on steam. This is a bit of a scuffed command. If you would like to look up the game that a Twitch channel is playing, use "channel:{channel}". Examples: "`vb steam apex legends`" or "`vb game channel:forsen`"
 | vb gnkiss `USER` `MESSAGE`          | Kiss someone goodnight. <img src="https://cdn.7tv.app/emote/60a1babb3c3362f9a4b8b33a/1x">
 | vb hare                             | An old command for the location of hare in Far Cry 5. <img src="https://cdn.7tv.app/emote/610725797c9d47b53ef7d244/1x">
 | vb harrison`1-3`                    | Screenshots/Videos of user [@hhharrisonnn](https://www.twitch.tv/hhharrisonnn).
