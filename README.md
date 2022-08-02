@@ -16,3 +16,6 @@ Yo whats up I made a [website](https://darkvypr.com) cause why not <img src="htt
      width="1122" 
      height="55" />
 
+300 going strong <img src="https://i.darkvypr.com/300commits.jpeg" 
+     width="1122" 
+     height="55" />
