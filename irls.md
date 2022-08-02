@@ -46,7 +46,7 @@ Drag the <b>update.rpf AND update2.rpf</b> from <code>Grand Theft Auto V\mods\up
 <br>
 </p>
 
-## 🧩 Precautionary Steps:
+## 🧩 Precautionary Steps (Highly Reccomended):
 
 <p align="center">
 For some reason, nobody has a up-to-date <b>RAGENativeUI.dll</b>. Open <a href="https://github.com/alexguirre/RAGENativeUI/releases" target="_blank">this link</a>, then under the <b>LATEST RELEASE</b> click on <b>RAGENativeUI.zip</b>. It should download.
