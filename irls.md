@@ -8,7 +8,7 @@ This will erase all mods inside <b>update.rpf & update2.rpf</b>. Mods like: <a h
 <br>
 </p>
 
-## 🔙 Optional Backup:
+## 🔙 Make a Backup:
 
 <p align="center">
 Drag the <b>update.rpf AND update2.rpf</b> from <code>Grand Theft Auto V\mods\update</code> onto your <b>Desktop</b>, thus making a backup of them (if you don't have <b>update2.rpf</b> that is fine).
