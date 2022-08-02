@@ -31,9 +31,14 @@ Drag the <b>update.rpf AND update2.rpf</b> from <code>Grand Theft Auto V\mods\up
 <br>
 🔁📂- Drag the <code>update.rpf</code> AND <code>update2.rpf</code> <b>from the New Folder you previously created on your Desktop,</b> into your <code>Grand Theft Auto V\mods\update</code> folder.
 <br>
-<br>
-ℹ️📽️- <a href="https://i.darkvypr.com/replacing-update-rpf.mp4" target="_blank">Click me for a video tutorial.</a>
-<br>
+</p>
+<p align="center">
+  🎥ℹ️Video Tutorial:
+</p>
+
+https://user-images.githubusercontent.com/70484211/182280479-f6adff3d-8173-4cb7-a35e-6180ee05ce4a.mp4
+
+<p align="center">
 <br>
 ⚙️📝- Install a <a href="https://www.gta5-mods.com/misc/gta-5-gameconfig-300-cars" target="_blank">custom gameconfig.xml.</a>
 <br>
