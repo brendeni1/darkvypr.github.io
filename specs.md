@@ -4,7 +4,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-CPU: Intel I9-9900k (OC'd to 4.8 GHz 5.0 was too unstable)
+CPU: Intel I9-9900k (OC'd to 4.8 GHz; 5.0 was too unstable)
 
 
 AIO: NZXT Kraken x62 (No LCD, 280 mm)
@@ -59,7 +59,7 @@ STABS: Shitty ones from Glorious (also lubed with 205g0)
 HEADPHONES: Beyerdynamic DT 770 (250Ω)
 
 
-MIC: TONOR XLR Mic
+MIC: RODE PodMic
 
 
 INTERFACE: Focusrite Scarlett Solo
