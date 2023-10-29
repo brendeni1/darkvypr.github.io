@@ -1,40 +1,6 @@
 # PC SPECS
 
-<a href="https://ca.pcpartpicker.com/list/ydmckX">PARTS LIST</a>
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-CPU: Intel I9-9900k (OC'd to 4.8 GHz; 5.0 was too unstable)
-
-
-AIO: NZXT Kraken x62 (No LCD, 280 mm)
-
-
-MB: Asus ROG Z390-E
-
-
-GPU: NVIDIA FOUNDERS 2070 SUPER (OC'ed)
-
-
-RAM: 32 GB GSKILL TRIDENT Z @ 3200 MHz
-
-
-PSU: Corsair RM850x (850 Watts)
-
-
-CASE: NZXT H-510i (Black)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# STORAGE
-
-SSD #1: Samsung 970 EVO 500 GB
-
-
-SSD #2: Sabrent Rocket NVMe 1 TB
-
-
-SSHD: Seagate 2 TB FireCuda Solid State Hard Drive
+<a href="https://ca.pcpartpicker.com/b/jky48d#cx4290442">PARTS LIST</a>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # KEYBOARD
