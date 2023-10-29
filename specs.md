@@ -33,7 +33,7 @@ INTERFACE: Focusrite Scarlett Solo
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # OTHER
 
-MOUSE: Glorious Model O Matte Black
+MOUSE: Glorious Model O 2 Matte Black
 
 
 MONITORS: Dell S2417DG (x2) (one in portrait mode)
